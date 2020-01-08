@@ -182,7 +182,7 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 
 | Assigned | Homework |Solutions| Due |
 |----------|:-------------:|:-------------:|----------------:|
-| JAN 10  | | | JAN 17 |
+| JAN 10  | [One](https://drive.google.com/file/d/1p7Ur6E5H3GLu8w5d1j4cZ40LKQqPaJqI/view?usp=sharing) | | JAN 17 |
 | JAN 17  | | | JAN 24 |
 | JAN 24  | | | JAN 31 |
 | JAN 31  | | | FEB 7 |
@@ -198,7 +198,8 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 
 # **Additional Resources**
 
-- **[Excel QM](https://wps.prenhall.com/bp_taylor_introms_11/220/56508/14466195.cw/content/)**
+- **[Excel QM](http://wps.pearsoned.co.uk/ema_ge_taylor_introms_11/231/59215/15159205.cw/content/index.html)**
+- **[Keyboard Shortcuts](https://exceljet.net/keyboard-shortcuts)**
 
 
 
