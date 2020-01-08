@@ -122,9 +122,9 @@ This course studies operations research decision-making techniques and data anal
 | Date | Topic | Slides | Spreadsheets |Reading|
 |------|---------|--------:|---------:|--------:|
 | JAN 8 |Introduction||||
-| JAN 10 |||||
-| JAN 13 |||||
-| JAN 15 |||||
+| JAN 10 |Break-Even Analysis|||Chapter 1|
+| JAN 13 |Basic Linear Programming|||Chapter 2|
+| JAN 15 |Additional Linear Programming|||Chapter 2|
 | JAN 17 |||||
 | JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
 | JAN 22 |||||
@@ -140,7 +140,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 14 |||||
 | FEB 17 |||||
 | FEB 19 |||||
-| FEB 21 |Midterm I||||
+| FEB 21 |**Midterm I**||||
 | FEB 24 |||||
 | FEB 26 |||||
 | FEB 28 |||||
@@ -160,7 +160,7 @@ This course studies operations research decision-making techniques and data anal
 | APR 1 |||||
 | APR 3 |||||
 | APR 6 |||||
-| APR 8 |Midterm 2||||
+| APR 8 |**Midterm 2**||||
 | APR 10 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 13 |||||
 | APR 15 |||||
@@ -168,6 +168,8 @@ This course studies operations research decision-making techniques and data anal
 | APR 20 |||||
 | APR 22 |||||
 | APR 24 |||||
+| APR 27 (8AM) |**Final Exam (Section 1)**||||
+| May 5 (8AM)|**Final Exam (Section 2)**||||
 |          |        |             |           |
 
 
@@ -195,5 +197,12 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 |||||
 
 # **Additional Resources**
+
+- **[Excel QM](https://wps.prenhall.com/bp_taylor_introms_11/220/56508/14466195.cw/content/)**
+
+
+
+
+
 
 This page was last updated on `r Sys.time()` Eastern Time.
