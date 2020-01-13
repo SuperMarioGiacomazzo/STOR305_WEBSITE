@@ -123,7 +123,7 @@ This course studies operations research decision-making techniques and data anal
 |------|---------|--------:|---------:|--------:|
 | JAN 8 |Introduction||||
 | JAN 10 |Break-Even Analysis|[Slides](https://drive.google.com/file/d/1tTIcF4TOwhVMMKSItHnsXv-nSKYE3PF-/view?usp=sharing)||Chapter 1|
-| JAN 13 |Basic Linear Programming|| [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Chapter 2|
+| JAN 13 |Basic Linear Programming| [Slides](https://drive.google.com/file/d/1IpOwCbYp67gMZj9p4wlH_MgCezG2Wq77/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Chapter 1-2|
 | JAN 15 |Additional Linear Programming|||Chapter 2|
 | JAN 17 |||||
 | JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
