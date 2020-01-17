@@ -125,7 +125,7 @@ This course studies operations research decision-making techniques and data anal
 | JAN 10 |Break-Even Analysis|[Slides](https://drive.google.com/file/d/1tTIcF4TOwhVMMKSItHnsXv-nSKYE3PF-/view?usp=sharing)||Chapter 1|
 | JAN 13 |Basic Linear Programming| [Slides](https://drive.google.com/file/d/1IpOwCbYp67gMZj9p4wlH_MgCezG2Wq77/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Chapter 1-2|
 | JAN 15 |Additional Linear Programming|[Slides](https://drive.google.com/file/d/14EOSldJO2sUn9NNNGMsdReiV1t-hyZ4V/view?usp=sharing)||Chapter 2|
-| JAN 17 | Special Cases and Computer Solution |[Slides]()||Chapter 2-3|
+| JAN 17 | Special Cases and Computer Solution | [Slides](https://drive.google.com/file/d/1DG-ein8dY6UR5eQhpyNc9Ge-MAR0yJ-l/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1BZL816ZxPGc4R8a7yMbT5sTbP5QxxEbc/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/15rzxdVH1syejlvYV7A1A31Vk8UysgXTs/view?usp=sharing) |Chapter 2-3|
 | JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
 | JAN 22 |Sensitivity Analysis|[Slides]()||Chapter 3|
 | JAN 24 |||||
@@ -200,6 +200,7 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 
 - **[Excel QM](https://media.pearsoncmg.com/ph/bp/bridgepages/bp_taylor_bridgepage/taylor_13e/student_resources.html)**
 - **[Keyboard Shortcuts](https://exceljet.net/keyboard-shortcuts)**
+- **[Online Graphing Calculator for Inequalities](https://www.desmos.com/calculator)**
 - **[Top 10 Useful Excel Functions](https://interestingengineering.com/top-10-most-useful-excel-formulas)**
 - **[Microsoft Course on Excel 2016](https://drive.google.com/file/d/1P-0jr3Qg9m9diC3G8NqArvmVZQPc0HoK/view?usp=sharing)**
 
