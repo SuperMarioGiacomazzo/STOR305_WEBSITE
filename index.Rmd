@@ -128,12 +128,12 @@ This course studies operations research decision-making techniques and data anal
 | JAN 17 | Special Cases / Computer Solution | [Slides](https://drive.google.com/file/d/1DG-ein8dY6UR5eQhpyNc9Ge-MAR0yJ-l/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1BZL816ZxPGc4R8a7yMbT5sTbP5QxxEbc/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/15rzxdVH1syejlvYV7A1A31Vk8UysgXTs/view?usp=sharing) |Chapter 2-3|
 | JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
 | JAN 22 |Sensitivity Analysis| [Slides](https://drive.google.com/file/d/14AZfuuTdE2tzQchRmkkSPpHvJ2qToV2t/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1tONQnoNC3IABKv4Ja7eSY2rvh9hO0Ic-/view?usp=sharing) |Chapter 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
-| JAN 24 |Complex Linear Program| [Slides](https://drive.google.com/file/d/1cw-mcZaUOCcpJwrcwt8P0jWUXkvqeCQZ/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PwwQC6kSbQNsSWyckjUO-rth91FgKSX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1D1lcLcpcGFkSkeLKyWTMovNNO2mdLML7/view?usp=sharing)  |Chapter 4|
-| |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://exceljet.net/excel-functions/excel-sumproduct-function) |
-| JAN 27 |Review in Applications| [Slides]() | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Chapter 4|
-| JAN 29 |||||
-| JAN 31 |||||
-| FEB 3 |||||
+| JAN 24 |Complex Linear Program/| [Slides](https://drive.google.com/file/d/1cw-mcZaUOCcpJwrcwt8P0jWUXkvqeCQZ/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PwwQC6kSbQNsSWyckjUO-rth91FgKSX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1D1lcLcpcGFkSkeLKyWTMovNNO2mdLML7/view?usp=sharing)  |Chapter 4|
+| |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
+| JAN 27 |Review in Applications| [Slides](https://drive.google.com/file/d/1eFFfUOtbYa7tDNqG4bHT2BXw1wVr2T-Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Chapter 4|
+| JAN 29 |Basic Integer Programming|| [Sheet 1](https://drive.google.com/file/d/1TlsF5muoHi3B6ZfZN-gpfDMtq94Za0sI/view?usp=sharing) |Chapter 5|
+| JAN 31 |Additional Integer Programming|||Chapter 5|
+| FEB 3 |Transportation/Transshipment/Assignment|||Chapter 6|
 | FEB 5 |||||
 | FEB 7 |||||
 | FEB 10 |||||
@@ -141,7 +141,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 14 |||||
 | FEB 17 |||||
 | FEB 19 |||||
-| FEB 21 |**Midterm I**||||
+| FEB 21 |**Midterm I**|||Chapter 1-7|
 | FEB 24 |||||
 | FEB 26 |||||
 | FEB 28 |||||
@@ -184,7 +184,7 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 | Assigned | Homework |Solutions| Due |
 |----------|:-------------:|:-------------:|----------------:|
 | JAN 10  | [One](https://drive.google.com/file/d/1p7Ur6E5H3GLu8w5d1j4cZ40LKQqPaJqI/view?usp=sharing) | [One](https://drive.google.com/file/d/1Eb0GTP1ddMw8yUc6hTLTH7P_8h27tA4K/view?usp=sharing) | JAN 17 |
-| JAN 17  | [Two](https://drive.google.com/file/d/1FugtrZ3yT_JSV8krdfUm1C9NZb018-qo/view?usp=sharing) | | JAN 24 |
+| JAN 17  | [Two](https://drive.google.com/file/d/1FugtrZ3yT_JSV8krdfUm1C9NZb018-qo/view?usp=sharing) | [Two](https://drive.google.com/file/d/1bhlEKnqdpdxZIA6HP0rnu6AJtFypJZHI/view?usp=sharing) | JAN 24 |
 | JAN 24  | [Three](https://drive.google.com/file/d/1QyaSj1GcWJCP9sk5vxxeKyLi_Bgzfr2w/view?usp=sharing) | | JAN 31 |
 | JAN 31  | [Four](https://drive.google.com/file/d/1YqPCVaIO2bn83KENrRrI2H_6J8t4gUEA/view?usp=sharing) | | FEB 7 |
 | FEB 7  | [Five](https://drive.google.com/file/d/1ONvkLlvOgVB9u-l0Ot2IsZ15IYIrAiGI/view?usp=sharing) | | FEB 14 |
