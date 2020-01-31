@@ -122,18 +122,18 @@ This course studies operations research decision-making techniques and data anal
 | Date | Topic | Slides | Spreadsheets |Reading|
 |------|---------|--------:|---------:|--------:|
 | JAN 8 |Introduction||||
-| JAN 10 |Break-Even Analysis|[Slides](https://drive.google.com/file/d/1tTIcF4TOwhVMMKSItHnsXv-nSKYE3PF-/view?usp=sharing)||Chapter 1|
-| JAN 13 |Basic Linear Programming| [Slides](https://drive.google.com/file/d/1IpOwCbYp67gMZj9p4wlH_MgCezG2Wq77/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Chapter 1-2|
-| JAN 15 |Additional Linear Programming|[Slides](https://drive.google.com/file/d/14EOSldJO2sUn9NNNGMsdReiV1t-hyZ4V/view?usp=sharing)||Chapter 2|
-| JAN 17 | Special Cases / Computer Solution | [Slides](https://drive.google.com/file/d/1DG-ein8dY6UR5eQhpyNc9Ge-MAR0yJ-l/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1BZL816ZxPGc4R8a7yMbT5sTbP5QxxEbc/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/15rzxdVH1syejlvYV7A1A31Vk8UysgXTs/view?usp=sharing) |Chapter 2-3|
+| JAN 10 |Break-Even Analysis|[Slides](https://drive.google.com/file/d/1tTIcF4TOwhVMMKSItHnsXv-nSKYE3PF-/view?usp=sharing)||Ch. 1|
+| JAN 13 |Basic Linear Programming| [Slides](https://drive.google.com/file/d/1IpOwCbYp67gMZj9p4wlH_MgCezG2Wq77/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Ch. 1-2|
+| JAN 15 |Additional Linear Programming|[Slides](https://drive.google.com/file/d/14EOSldJO2sUn9NNNGMsdReiV1t-hyZ4V/view?usp=sharing)||Ch. 2|
+| JAN 17 | Special Cases / Computer Solution | [Slides](https://drive.google.com/file/d/1DG-ein8dY6UR5eQhpyNc9Ge-MAR0yJ-l/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1BZL816ZxPGc4R8a7yMbT5sTbP5QxxEbc/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/15rzxdVH1syejlvYV7A1A31Vk8UysgXTs/view?usp=sharing) |Ch. 2-3|
 | JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
-| JAN 22 |Sensitivity Analysis| [Slides](https://drive.google.com/file/d/14AZfuuTdE2tzQchRmkkSPpHvJ2qToV2t/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1tONQnoNC3IABKv4Ja7eSY2rvh9hO0Ic-/view?usp=sharing) |Chapter 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
-| JAN 24 |Complex Linear Program/| [Slides](https://drive.google.com/file/d/1cw-mcZaUOCcpJwrcwt8P0jWUXkvqeCQZ/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PwwQC6kSbQNsSWyckjUO-rth91FgKSX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1D1lcLcpcGFkSkeLKyWTMovNNO2mdLML7/view?usp=sharing)  |Chapter 4|
+| JAN 22 |Sensitivity Analysis| [Slides](https://drive.google.com/file/d/14AZfuuTdE2tzQchRmkkSPpHvJ2qToV2t/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1tONQnoNC3IABKv4Ja7eSY2rvh9hO0Ic-/view?usp=sharing) |Ch. 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
+| JAN 24 |Complex Linear Program/| [Slides](https://drive.google.com/file/d/1cw-mcZaUOCcpJwrcwt8P0jWUXkvqeCQZ/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PwwQC6kSbQNsSWyckjUO-rth91FgKSX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1D1lcLcpcGFkSkeLKyWTMovNNO2mdLML7/view?usp=sharing)  |Ch. 4|
 | |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
-| JAN 27 |Review in Applications| [Slides](https://drive.google.com/file/d/1eFFfUOtbYa7tDNqG4bHT2BXw1wVr2T-Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Chapter 4|
-| JAN 29 |Basic Integer Programming| [Slides](https://drive.google.com/file/d/1YbcEVMdUj0WjXtom7lmqdyAu1tueLsUg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TlsF5muoHi3B6ZfZN-gpfDMtq94Za0sI/view?usp=sharing) |Chapter 5|
-| JAN 31 |Additional Integer Programming|||Chapter 5|
-| FEB 3 |Transportation/Transshipment/Assignment|||Chapter 6|
+| JAN 27 |Review in Applications| [Slides](https://drive.google.com/file/d/1eFFfUOtbYa7tDNqG4bHT2BXw1wVr2T-Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Ch, 4|
+| JAN 29 |Basic Integer Programming| [Slides](https://drive.google.com/file/d/1YbcEVMdUj0WjXtom7lmqdyAu1tueLsUg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TlsF5muoHi3B6ZfZN-gpfDMtq94Za0sI/view?usp=sharing) |Ch. 5|
+| JAN 31 |Advanced Integer Programming| [Slides](https://drive.google.com/file/d/1WLK5j5v1u3KjxWGqAkCfNV5429ta5FPx/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1EdVvJBsohhLdhWngqzlWLYmw1onzNTRS/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/14L7ePR6wy9bmbd56OPSC7oe4SuJQjwCn/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1k6g26V3BfiLalE-7K7t8d4v9WqwhhDkL/view?usp=sharing) |Ch. 5|
+| FEB 3 |Transport/Transship/Assign|||Ch. 6|
 | FEB 5 |||||
 | FEB 7 |||||
 | FEB 10 |||||
