@@ -133,7 +133,7 @@ This course studies operations research decision-making techniques and data anal
 | JAN 27 |Review in Applications| [Slides](https://drive.google.com/file/d/1eFFfUOtbYa7tDNqG4bHT2BXw1wVr2T-Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Ch, 4|
 | JAN 29 |Basic Integer Programming| [Slides](https://drive.google.com/file/d/1YbcEVMdUj0WjXtom7lmqdyAu1tueLsUg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TlsF5muoHi3B6ZfZN-gpfDMtq94Za0sI/view?usp=sharing) |Ch. 5|
 | JAN 31 |Advanced Integer Programming| [Slides](https://drive.google.com/file/d/1WLK5j5v1u3KjxWGqAkCfNV5429ta5FPx/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1EdVvJBsohhLdhWngqzlWLYmw1onzNTRS/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/14L7ePR6wy9bmbd56OPSC7oe4SuJQjwCn/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1k6g26V3BfiLalE-7K7t8d4v9WqwhhDkL/view?usp=sharing) |Ch. 5-6|
-| FEB 3 |Transport/Transship/Assign|||Ch. 6|
+| FEB 3 |Transport/Transship/Assign| [Slides](https://drive.google.com/file/d/1NzXqalZHIUoj_KMmnPmsusrKRNVevctT/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1jOgQUtyGSxmNYC1weqrGYnfvRLK20D8z/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1WTw0BbYV5k0_vTQKDIFcGp-YoYeB7MRd/view?usp=sharing) |Ch. 6|
 | FEB 5 |||||
 | FEB 7 |||||
 | FEB 10 |||||
@@ -185,10 +185,10 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 |----------|:------:|:-------------:|:-------------:|----------------:|
 | JAN 10  |Chapter 1-2| [One](https://drive.google.com/file/d/1p7Ur6E5H3GLu8w5d1j4cZ40LKQqPaJqI/view?usp=sharing) | [One](https://drive.google.com/file/d/1Eb0GTP1ddMw8yUc6hTLTH7P_8h27tA4K/view?usp=sharing) | JAN 17 |
 | JAN 17  |Chapter 2|[Two](https://drive.google.com/file/d/1FugtrZ3yT_JSV8krdfUm1C9NZb018-qo/view?usp=sharing) | [Two](https://drive.google.com/file/d/1bhlEKnqdpdxZIA6HP0rnu6AJtFypJZHI/view?usp=sharing) | JAN 24 |
-| JAN 24  |Chapter 3-4| [Three](https://drive.google.com/file/d/1QyaSj1GcWJCP9sk5vxxeKyLi_Bgzfr2w/view?usp=sharing) | | JAN 31 |
+| JAN 24  |Chapter 3-4| [Three](https://drive.google.com/file/d/1QyaSj1GcWJCP9sk5vxxeKyLi_Bgzfr2w/view?usp=sharing) | [Three](https://drive.google.com/file/d/1Jvt1LTmvmZtl-PrE2fiJXfVQa6Gkw3jn/view?usp=sharing) | JAN 31 |
 | JAN 31  |Chapter 5| [Four](https://drive.google.com/file/d/1YqPCVaIO2bn83KENrRrI2H_6J8t4gUEA/view?usp=sharing) | | FEB 7 |
 | FEB 7  |Chapter 6| [Five](https://drive.google.com/file/d/1ONvkLlvOgVB9u-l0Ot2IsZ15IYIrAiGI/view?usp=sharing) | | FEB 14 |
-| FEB 21  || | | FEB 28 |
+| FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  |  | FEB 28 |
 | FEB 28  || | | MAR 6|
 | MAR 6  || | | MAR 20|
 | MAR 20  || | | MAR 27|
