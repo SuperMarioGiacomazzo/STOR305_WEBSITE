@@ -135,8 +135,8 @@ This course studies operations research decision-making techniques and data anal
 | JAN 31 |Advanced Integer Programming| [Slides](https://drive.google.com/file/d/1WLK5j5v1u3KjxWGqAkCfNV5429ta5FPx/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1EdVvJBsohhLdhWngqzlWLYmw1onzNTRS/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/14L7ePR6wy9bmbd56OPSC7oe4SuJQjwCn/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1k6g26V3BfiLalE-7K7t8d4v9WqwhhDkL/view?usp=sharing) |Ch. 5-6|
 | FEB 3 |Transport/Transship/Assign| [Slides](https://drive.google.com/file/d/1NzXqalZHIUoj_KMmnPmsusrKRNVevctT/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1jOgQUtyGSxmNYC1weqrGYnfvRLK20D8z/view?usp=sharing) |Ch. 6|
 | FEB 5 |Intro to Network Flow| [Slides](https://drive.google.com/file/d/1oVpv-25fnRbIWxzErmU6ZdS18kSj5AoN/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1Gd6o9uyFq7gdzi_XwDr3s5EbXFIWrhXt/view?usp=sharing)|Ch. 6-7, [Link 1](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)|
-| FEB 7 |Continuing Network Flow| [Slides](https://drive.google.com/file/d/1EKKm1lcdOZigFqRcBLX0M8QO5wJpEuh3/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TPU5ZAQgfn257hdFz-d4gddfiAKYQMo8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1kw77Ei7EZxZzRu-B5RVL22MZdlEtb0N9/view?usp=sharing) |Ch. 7|
-| FEB 10 |Outro to Network Flow|||Ch. 7|
+| FEB 7 |Shortest Route| [Slides](https://drive.google.com/file/d/1EKKm1lcdOZigFqRcBLX0M8QO5wJpEuh3/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TPU5ZAQgfn257hdFz-d4gddfiAKYQMo8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1kw77Ei7EZxZzRu-B5RVL22MZdlEtb0N9/view?usp=sharing) |Ch. 7|
+| FEB 10 |Maximal Flow| [Slides](https://drive.google.com/file/d/1KF0Qi4FNwyumZYNnt-nCFQ6fuKGbUDZ4/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/17OtCNX3Ymuw1-UZuw60D807YbgWp2Ixb/view?usp=sharing)|Ch. 7|
 | FEB 12 |||||
 | FEB 14 |||||
 | FEB 17 |||||
