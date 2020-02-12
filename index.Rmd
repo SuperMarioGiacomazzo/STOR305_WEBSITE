@@ -137,8 +137,8 @@ This course studies operations research decision-making techniques and data anal
 | FEB 5 |Intro to Network Flow| [Slides](https://drive.google.com/file/d/1oVpv-25fnRbIWxzErmU6ZdS18kSj5AoN/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1Gd6o9uyFq7gdzi_XwDr3s5EbXFIWrhXt/view?usp=sharing)|Ch. 6-7, [Link 1](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)|
 | FEB 7 |Shortest Route| [Slides](https://drive.google.com/file/d/1EKKm1lcdOZigFqRcBLX0M8QO5wJpEuh3/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TPU5ZAQgfn257hdFz-d4gddfiAKYQMo8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1kw77Ei7EZxZzRu-B5RVL22MZdlEtb0N9/view?usp=sharing) |Ch. 7|
 | FEB 10 |Maximal Flow| [Slides](https://drive.google.com/file/d/1KF0Qi4FNwyumZYNnt-nCFQ6fuKGbUDZ4/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/17OtCNX3Ymuw1-UZuw60D807YbgWp2Ixb/view?usp=sharing)|Ch. 7|
-| FEB 12 |||||
-| FEB 14 |||||
+| FEB 12 |Minimal Spanning Tree| [Slides](https://drive.google.com/file/d/194YLlPYuPYNYU3ABkbuVrambbBat3tvg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1j9du3U9b6zO3NoGGtfvWd-A3vIsUj5rU/view?usp=sharing) |Ch. 7|
+| FEB 14 |Preparation for Midterm I||||
 | FEB 17 |||||
 | FEB 19 |||||
 | FEB 21 |**Midterm I**|||Chapter 1-6|
