@@ -139,7 +139,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 10 |Maximal Flow| [Slides](https://drive.google.com/file/d/1KF0Qi4FNwyumZYNnt-nCFQ6fuKGbUDZ4/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/17OtCNX3Ymuw1-UZuw60D807YbgWp2Ixb/view?usp=sharing)|Ch. 7|
 | FEB 12 |Minimal Spanning Tree| [Slides](https://drive.google.com/file/d/194YLlPYuPYNYU3ABkbuVrambbBat3tvg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1j9du3U9b6zO3NoGGtfvWd-A3vIsUj5rU/view?usp=sharing) |Ch. 7|
 | FEB 14 |Midterm I Prep||| Ch. 1-6|
-| FEB 17 |||||
+| FEB 17 |Goal Programming||||
 | FEB 19 |||||
 | FEB 21 |**Midterm I**|||Ch. 1-6|
 | FEB 24 |||||
