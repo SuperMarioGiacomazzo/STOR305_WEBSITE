@@ -139,8 +139,8 @@ This course studies operations research decision-making techniques and data anal
 | FEB 10 |Maximal Flow| [Slides](https://drive.google.com/file/d/1KF0Qi4FNwyumZYNnt-nCFQ6fuKGbUDZ4/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/17OtCNX3Ymuw1-UZuw60D807YbgWp2Ixb/view?usp=sharing)|Ch. 7|
 | FEB 12 |Minimal Spanning Tree| [Slides](https://drive.google.com/file/d/194YLlPYuPYNYU3ABkbuVrambbBat3tvg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1j9du3U9b6zO3NoGGtfvWd-A3vIsUj5rU/view?usp=sharing) |Ch. 7|
 | FEB 14 |Midterm I Prep||| Ch. 1-6|
-| FEB 17 |Basic Goal Programming| [Slides](https://drive.google.com/file/d/1AJXvOd4xRGLY3JqI8PvtfCm51BZpEz48/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1K4VE_6doK4l2BsmggohOaLu0XatN96B2/view?usp=sharing) |Ch. 9|
-| FEB 19 |Advanced Goal Programming| [Slides]() ||Ch. 9|
+| FEB 17 |Intro to Goal Programming| [Slides](https://drive.google.com/file/d/1AJXvOd4xRGLY3JqI8PvtfCm51BZpEz48/view?usp=sharing) | |Ch. 9|
+| FEB 19 |Goal Programming in Excel| [Slides](https://drive.google.com/file/d/1vkEn-Mjr5avthY7p68hSmV4EOi7SeCxy/view?usp=sharing) |  [Sheet 1](https://drive.google.com/file/d/1K4VE_6doK4l2BsmggohOaLu0XatN96B2/view?usp=sharing) |Ch. 9|
 | FEB 21 |**Midterm I**|||Ch. 1-6|
 | FEB 24 |Goal Programming Case Study| [Slides]() ||Ch. 9|
 | FEB 26 |||||
