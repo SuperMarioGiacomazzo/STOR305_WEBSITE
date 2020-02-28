@@ -141,12 +141,12 @@ This course studies operations research decision-making techniques and data anal
 | FEB 14 |Midterm I Prep||| Ch. 1-6|
 | FEB 17 |Intro to Goal Programming| [Slides](https://drive.google.com/file/d/1AJXvOd4xRGLY3JqI8PvtfCm51BZpEz48/view?usp=sharing) | |Ch. 9|
 | FEB 19 |Goal Programming in Excel| [Slides](https://drive.google.com/file/d/1vkEn-Mjr5avthY7p68hSmV4EOi7SeCxy/view?usp=sharing) |  [Sheet 1](https://drive.google.com/file/d/1K4VE_6doK4l2BsmggohOaLu0XatN96B2/view?usp=sharing) |Ch. 9|
-| FEB 21 |**Midterm I**|||Ch. 1-6|
-| FEB 24 |Goal Programming Case Study| [Slides]() ||Ch. 9|
-| FEB 26 |||||
-| FEB 28 |||||
-| MAR 2 |||||
-| MAR 4 |||||
+| FEB 21 |[Let It Snow](https://www.youtube.com/watch?v=mN7LW0Y00kE)||||
+| FEB 24 |**Midterm I**|  ||Ch. 1-6|
+| FEB 26 | [Jury Duty](https://www.youtube.com/watch?v=grnUvCNAfGA) |  |||
+| FEB 28 |Goal Programming Case Study| [Slides](https://drive.google.com/file/d/1Y_ZtXiqLlmYdPFQoNn9W5oZkgI2mCvye/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1hqw_peQuaoB-R4UB6HNLty-KZbMt7S-t/view?usp=sharing)|Ch. 9|
+| MAR 2 |Intro to Nonlinear Programming||| Ch. 10 |
+| MAR 4 |Additional Nonlinear Programming||| Ch. 10 |
 | MAR 6 |||||
 | MAR 9 |[SPRING BRIZZEAK I](https://www.youtube.com/watch?v=DobrRgD5aOU)||||
 | MAR 11 |[SPRING BRIZZEAK II](https://www.youtube.com/watch?v=mFWQgxXM_b8)||||
@@ -189,8 +189,8 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 | JAN 31  |Chapter 5| [Four](https://drive.google.com/file/d/1YqPCVaIO2bn83KENrRrI2H_6J8t4gUEA/view?usp=sharing) | [Four](https://drive.google.com/file/d/19uC1Yd48OY_Pn3UFvhIh0X097ETqVBrX/view?usp=sharing) | FEB 7 |
 | FEB 7  |Chapter 6| [Five](https://drive.google.com/file/d/1ONvkLlvOgVB9u-l0Ot2IsZ15IYIrAiGI/view?usp=sharing) | [Five](https://drive.google.com/file/d/1sphis0y10Ejuv4d-hqGLo2llZLEAk_Sv/view?usp=sharing) | FEB 14 |
 | FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  |  | FEB 28 |
-| FEB 28  || | | MAR 6|
-| MAR 6  || | | MAR 20|
+| FEB 28  | Chapter 7  | [Seven](https://drive.google.com/file/d/11u3pu-u4TriBxqOJcWGonzVaglfBdnAk/view?usp=sharing) | | MAR 6|
+| MAR 6  | Chapter 7-8 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | | MAR 20|
 | MAR 20  || | | MAR 27|
 | MAR 27  || | | APR 3|
 | APR 10  || | | APR 17|
