@@ -147,12 +147,13 @@ This course studies operations research decision-making techniques and data anal
 | FEB 28 |Goal Programming Case Study| [Slides](https://drive.google.com/file/d/1Y_ZtXiqLlmYdPFQoNn9W5oZkgI2mCvye/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1hqw_peQuaoB-R4UB6HNLty-KZbMt7S-t/view?usp=sharing)|Ch. 9|
 | MAR 2 |Goal Programming Practice/| [Slides](https://drive.google.com/file/d/1-o8aJo22UmAdzfnQy_hPIk0aN_8Bj6Hn/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1SrRtgEztjmLcP53DAri5Vrq5cyd6AnXs/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/17biLPdh7Njd0e2A2AdP6_oRnpeQX4C7u/view?usp=sharing) | Ch. 9 |
 || Activity |  | [Sheet 3](https://drive.google.com/file/d/1tmxaADPXosYIdvdVvAIupvVFGQYt2THu/view?usp=sharing), [Sheet 4](https://drive.google.com/file/d/1Yc2Jy4LhAIPBDaxU2j4R3zdkYECTki-E/view?usp=sharing) | Ch. 9 |
-| MAR 4 |Intro to Nonlinear Programming| [Slides](https://drive.google.com/file/d/1S3dp0Az9tBkhB37-uEbdffd6g1zhLmA9/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1cdkt5UOIcfk7IMQ7LLzySyrU_iVvLLgj/view?usp=sharing) | Ch. 10 |
-| MAR 6 |Additional Nonlinear Programming|| [Sheet 1](https://drive.google.com/file/d/1s0LOflNfAOmDTuYP5WfBFGJjSBFoIFQV/view?usp=sharing)|Ch. 10|
+| MAR 4 |Intro to Nonlinear Programming| [Slides](https://drive.google.com/file/d/1S3dp0Az9tBkhB37-uEbdffd6g1zhLmA9/view?usp=sharing) |  | Ch. 10 |
+| MAR 6 |More Nonlinear Programming| [Slides](https://drive.google.com/file/d/181742HsmZuAUHlSgBJEovzfP8r6_hSmu/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1cdkt5UOIcfk7IMQ7LLzySyrU_iVvLLgj/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1s0LOflNfAOmDTuYP5WfBFGJjSBFoIFQV/view?usp=sharing) |Ch. 10|
+| |||  [Sheet 3](https://drive.google.com/file/d/1_SLzddyrgBz_IWb36y0tKkr-dienKWUq/view?usp=sharing), [Sheet 4](https://drive.google.com/file/d/1u_CTacucn2iNSZDY2JLJv5VFf9xkzSwv/view?usp=sharing) |Ch. 10|
 | MAR 9 |[SPRING BRIZZEAK I](https://www.youtube.com/watch?v=DobrRgD5aOU)||||
 | MAR 11 |[SPRING BRIZZEAK II](https://www.youtube.com/watch?v=mFWQgxXM_b8)||||
 | MAR 13 |[SPRING BRIZZEAK III](https://www.youtube.com/watch?v=ARe2e7RVwkc)||||
-| MAR 16 |||||
+| MAR 16 |Advanced Nonlinear Programming||||
 | MAR 18 |||||
 | MAR 20 |||||
 | MAR 23 |||||
