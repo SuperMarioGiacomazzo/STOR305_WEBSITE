@@ -153,12 +153,12 @@ This course studies operations research decision-making techniques and data anal
 | MAR 9 |[SPRING BRIZZEAK I](https://www.youtube.com/watch?v=DobrRgD5aOU)||||
 | MAR 11 |[SPRING BRIZZEAK II](https://www.youtube.com/watch?v=mFWQgxXM_b8)||||
 | MAR 13 |[SPRING BRIZZEAK III](https://www.youtube.com/watch?v=ARe2e7RVwkc)||||
-| MAR 16 |Advanced Nonlinear Programming||||
-| MAR 18 |||||
-| MAR 20 |||||
-| MAR 23 |||||
+| MAR 16 |[SPRING BRIZZEAK IV](https://www.youtube.com/watch?v=ojkScPkdgsk)||||
+| MAR 18 |[SPRING BRIZZEAK V](https://www.youtube.com/watch?v=C-ADAwfrwGs)||||
+| MAR 20 |[SPRING BRIZZEAK VI](https://www.youtube.com/watch?v=Md6Dvxdr0AQ)||||
+| MAR 23 |Advanced Nonlinear Programming||||
 | MAR 25 |||||
-| MAR 27 |Guest: [Shawn Steurer](https://www.linkedin.com/in/shawn-steurer)||||
+| MAR 27 |||||
 | MAR 30 |||||
 | APR 1 |||||
 | APR 3 |||||
