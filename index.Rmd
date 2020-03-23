@@ -112,9 +112,9 @@ This course studies operations research decision-making techniques and data anal
     - **[Section 2](https://drive.google.com/file/d/158JNNWJ_ZCBfKi6MYuViYtS5UPtPfENf/view?usp=sharing)**
     
 * Zoom Links:
-    - **[Lectures for Section 1:](https://unc.zoom.us/j/548534281)** Open MWF from 10AM-11:15AM
-    - **[Lectures for Section 2:](https://unc.zoom.us/j/675274886)** Open MWF from 2:30PM-3:45PM
-    - **[Office Hours:](https://unc.zoom.us/j/100129995)** Open T from 9AM - 3PM
+    - **[Lectures for Section 1:](https://unc.zoom.us/j/548534281)** MWF from 10AM-11:15AM
+    - **[Lectures for Section 2:](https://unc.zoom.us/j/675274886)** MWF from 2:30PM-3:45PM
+    - **[Office Hours:](https://unc.zoom.us/j/100129995)** T from 9AM - 3PM
 
   </div>
   <div class="column">
@@ -161,7 +161,7 @@ This course studies operations research decision-making techniques and data anal
 | MAR 16 |[SPRING BRIZZEAK IV](https://www.youtube.com/watch?v=ojkScPkdgsk)||||
 | MAR 18 |[SPRING BRIZZEAK V](https://www.youtube.com/watch?v=C-ADAwfrwGs)||||
 | MAR 20 |[SPRING BRIZZEAK VI](https://www.youtube.com/watch?v=Md6Dvxdr0AQ)||||
-| MAR 23 |Changes to the Course||||
+| MAR 23 | [Changes to the Course](https://unc.zoom.us/rec/share/ytxXMq3a3F1Ofq_NwxHEcLF8F9nCX6a8g3Ie-6IJn0ohlO7z8HJ-syr6HcO-jaP3?startTime=1584970635000) ||||
 | MAR 25 |Nonlinear Case Study| [Slides](https://drive.google.com/file/d/1KhHyCfaGv8oKKLLXIIcWm3BRknKwVIJr/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1f8LyH5BE1xAObdmsubd2Ii3UgKwav4r2/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1M0wOynt5YjqU5QphiUnhqI9aReA-TV_8/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1-xHFIadVfDXPsS_E2ILTNSkQc9snd-2_/view?usp=sharing) |Ch. 10|
 | MAR 27 |||||
 | MAR 30 |||||
