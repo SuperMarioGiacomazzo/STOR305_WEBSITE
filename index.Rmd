@@ -110,6 +110,11 @@ This course studies operations research decision-making techniques and data anal
 
     - **[Section 1](https://drive.google.com/file/d/1i1vdAwAmUxccQQJFcITE763XqXaibJ_S/view?usp=sharing)**
     - **[Section 2](https://drive.google.com/file/d/158JNNWJ_ZCBfKi6MYuViYtS5UPtPfENf/view?usp=sharing)**
+    
+* Zoom Links:
+    - **[Lectures for Section 1:](https://unc.zoom.us/j/548534281)** Open MWF from 10AM-11:15AM
+    - **[Lectures for Section 2:](https://unc.zoom.us/j/675274886)** Open MWF from 2:30PM-3:45PM
+    - **[Office Hours:](https://unc.zoom.us/j/100129995)** Open T from 9AM - 3PM
 
   </div>
   <div class="column">
@@ -156,18 +161,18 @@ This course studies operations research decision-making techniques and data anal
 | MAR 16 |[SPRING BRIZZEAK IV](https://www.youtube.com/watch?v=ojkScPkdgsk)||||
 | MAR 18 |[SPRING BRIZZEAK V](https://www.youtube.com/watch?v=C-ADAwfrwGs)||||
 | MAR 20 |[SPRING BRIZZEAK VI](https://www.youtube.com/watch?v=Md6Dvxdr0AQ)||||
-| MAR 23 |Advanced Nonlinear Programming||||
-| MAR 25 |||||
+| MAR 23 |Changes to the Course||||
+| MAR 25 |Nonlinear Case Study| [Slides](https://drive.google.com/file/d/1KhHyCfaGv8oKKLLXIIcWm3BRknKwVIJr/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1f8LyH5BE1xAObdmsubd2Ii3UgKwav4r2/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1M0wOynt5YjqU5QphiUnhqI9aReA-TV_8/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1-xHFIadVfDXPsS_E2ILTNSkQc9snd-2_/view?usp=sharing) |Ch. 10|
 | MAR 27 |||||
 | MAR 30 |||||
 | APR 1 |||||
 | APR 3 |||||
 | APR 6 |||||
-| APR 8 |**Midterm 2**||| Ch. 7,9-10|
+| APR 8 |||| |
 | APR 10 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 13 |||||
 | APR 15 |||||
-| APR 17 |||||
+| APR 17 |**Midterm 2**|||Ch. 7, 9-10|
 | APR 20 |||||
 | APR 22 |||||
 | APR 24 |||||
@@ -190,13 +195,13 @@ All homework assignments are to be submitted within 5 minutes of class on Friday
 | JAN 24  |Chapter 3-4| [Three](https://drive.google.com/file/d/1QyaSj1GcWJCP9sk5vxxeKyLi_Bgzfr2w/view?usp=sharing) | [Three](https://drive.google.com/file/d/1Jvt1LTmvmZtl-PrE2fiJXfVQa6Gkw3jn/view?usp=sharing) | JAN 31 |
 | JAN 31  |Chapter 5| [Four](https://drive.google.com/file/d/1YqPCVaIO2bn83KENrRrI2H_6J8t4gUEA/view?usp=sharing) | [Four](https://drive.google.com/file/d/19uC1Yd48OY_Pn3UFvhIh0X097ETqVBrX/view?usp=sharing) | FEB 7 |
 | FEB 7  |Chapter 6| [Five](https://drive.google.com/file/d/1ONvkLlvOgVB9u-l0Ot2IsZ15IYIrAiGI/view?usp=sharing) | [Five](https://drive.google.com/file/d/1sphis0y10Ejuv4d-hqGLo2llZLEAk_Sv/view?usp=sharing) | FEB 14 |
-| FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  |  | FEB 28 |
-| FEB 28  | Chapter 7  | [Seven](https://drive.google.com/file/d/11u3pu-u4TriBxqOJcWGonzVaglfBdnAk/view?usp=sharing) | | MAR 6|
-| MAR 6  | Chapter 7,9 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | | MAR 20|
-| MAR 20  |Chapter 9,10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | | MAR 27|
-| MAR 27  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | | APR 3|
-| APR 10  || | | APR 17|
-| APR 17  || | | APR 24|
+| FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  | [Six](https://drive.google.com/file/d/1q6Y69Wh8tIH1qsqEZ6hn1IpHXtBnt6TL/view?usp=sharing)  | FEB 28 |
+| FEB 28  | Chapter 7  | [Seven](https://drive.google.com/file/d/11u3pu-u4TriBxqOJcWGonzVaglfBdnAk/view?usp=sharing) | [Seven](https://drive.google.com/file/d/1bq2QZDp7JFamm5jVZDv8kSk6Ij7bxcKl/view?usp=sharing) | MAR 6|
+| MAR 6  | Chapter 7,9 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | | MAR 27|
+| MAR 27  |Chapter 9,10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | | APR 3|
+| APR 3  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | | APR 17|
+| APR 17  || [Eleven]() | | APR 24|
+| APR 17  || [Twelve]() | | APR 24|
 |||||
 
 # **Additional Resources**
