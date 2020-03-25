@@ -110,17 +110,20 @@ This course studies operations research decision-making techniques and data anal
 
     - **[Section 1](https://drive.google.com/file/d/1i1vdAwAmUxccQQJFcITE763XqXaibJ_S/view?usp=sharing)**
     - **[Section 2](https://drive.google.com/file/d/158JNNWJ_ZCBfKi6MYuViYtS5UPtPfENf/view?usp=sharing)**
-    
+
 * Zoom Links:
     - **[Lectures for Section 1:](https://unc.zoom.us/j/548534281)** MWF from 10AM-11:15AM
     - **[Lectures for Section 2:](https://unc.zoom.us/j/675274886)** MWF from 2:30PM-3:45PM
-    - **[Office Hours:](https://unc.zoom.us/j/100129995)** T from 9AM - 3PM
-
+    - **[Dr. Mario Office Hours:](https://unc.zoom.us/j/100129995)** T from 9AM - 3PM
+    - **[Sam Office Hours:](https://unc.zoom.us/j/106708102)** Th from 11AM - 1PM
+    - **[Xin Office Hours:](https://unc.zoom.us/j/100129995)** Th from 9AM - 11AM
   </div>
   <div class="column">
   <img src="UNC_Logo.png" width="200px" height="auto">
   </div>
 </div>    
+
+
 
 # **Course Material**
 
