@@ -189,7 +189,7 @@ This course studies operations research decision-making techniques and data anal
 
 # **Assignment Tracker**
 
-All homework assignments are to be submitted within 5 minutes of class on Friday. 
+All homework assignments are to be submitted through Sakai by 5PM on Friday. No late homework is accepted.
 
 | Assigned| Material | Homework |Solutions| Due |
 |----------|:------:|:-------------:|:-------------:|----------------:|
