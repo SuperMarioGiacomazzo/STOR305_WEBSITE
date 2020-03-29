@@ -167,7 +167,7 @@ This course studies operations research decision-making techniques and data anal
 | MAR 23 | [Changes to the Course](https://unc.zoom.us/rec/share/ytxXMq3a3F1Ofq_NwxHEcLF8F9nCX6a8g3Ie-6IJn0ohlO7z8HJ-syr6HcO-jaP3?startTime=1584970635000) ||||
 | MAR 25 |[More Nonlinear Examples](https://unc.zoom.us/rec/share/2fJ6NrHb13FOGoXX8W_Rf48OMbnMeaa8gSMY8_RZxUbKxcRBnASpY44nvIur84Nc)| [Slides](https://drive.google.com/file/d/1KhHyCfaGv8oKKLLXIIcWm3BRknKwVIJr/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1f8LyH5BE1xAObdmsubd2Ii3UgKwav4r2/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1M0wOynt5YjqU5QphiUnhqI9aReA-TV_8/view?usp=sharing) |Ch. 10|
 | MAR 27 | [Nonlinear Case Study](https://unc.zoom.us/rec/share/wdxYELHt_GlJGbOR4n_DcfQ9MYTLX6a8gCMYrKBZzRpho-jPwlLuVTBvJf-vpj3-?startTime=1585317625000) | [Slides](https://drive.google.com/file/d/1rGGNby3_nqAqGsV6aQpM-qN0EEk0RaK-/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1SCEiUL9mBI91QW6zBBGLkZXYMZIFBNv2/view?usp=sharing) |Ch. 10|
-| MAR 30 |||||
+| MAR 30 || [Slides]() ||Ch. 11|
 | APR 1 |||||
 | APR 3 |||||
 | APR 6 |||||
@@ -201,10 +201,10 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  | [Six](https://drive.google.com/file/d/1q6Y69Wh8tIH1qsqEZ6hn1IpHXtBnt6TL/view?usp=sharing)  | FEB 28 |
 | FEB 28  | Chapter 7  | [Seven](https://drive.google.com/file/d/11u3pu-u4TriBxqOJcWGonzVaglfBdnAk/view?usp=sharing) | [Seven](https://drive.google.com/file/d/1bq2QZDp7JFamm5jVZDv8kSk6Ij7bxcKl/view?usp=sharing) | MAR 6|
 | MAR 6  | Chapter 7,9 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | | MAR 27|
-| MAR 27  |Chapter 9,10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | | APR 3|
-| APR 3  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | | APR 17|
-| APR 17  || [Eleven]() | | APR 24|
-| APR 17  || [Twelve]() | | APR 24|
+| MAR 27  |Chapter 9-10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | | APR 3|
+| APR 3  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | | APR 10|
+| APR 17  |Chapter 11| [Eleven](https://drive.google.com/file/d/1wn2Ebxrbao65wTKwpzIrUhivXUv1XuJx/view?usp=sharing) | | APR 24|
+| APR 17  |Chapter 11-12| [Twelve](https://drive.google.com/file/d/1v9ubw0QVKWkc-mFsGWxRjY_YfTyPKsnO/view?usp=sharing) | | APR 24|
 |||||
 
 # **Additional Resources**
