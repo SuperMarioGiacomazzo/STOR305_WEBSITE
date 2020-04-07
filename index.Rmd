@@ -170,11 +170,11 @@ This course studies operations research decision-making techniques and data anal
 | MAR 30 |[Descriptive Statistics](https://unc.zoom.us/rec/share/w51KDujQ5lhOWpWV1WvWX7B5M5X3aaa8hCdI_PBcy0vcgks3bOFwmNIhhtGYPfmE?startTime=1585591743000)| [Slides](https://drive.google.com/file/d/18004w7YfFbWfypbtlyPs8YaMC2dG6wvz/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/17rK2J59IjJi3ITf2qhNbb2M2azA1NThp/view?usp=sharing) |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
 | APR 1 | [More Descriptive Statistics](https://unc.zoom.us/rec/play/u5MrJruspzk3T4fB5QSDV6BwW427La-s1CJIrqAFxBu2U3ALOgakZroQZebGyNLQZTLodIV6rIziylH1?continueMode=true&_x_zm_rtaid=1T-k5LzYQHGzCFzqps7c2Q.1585769527457.6f066fe3dc6d7bc66fbffa7949dee196&_x_zm_rhtaid=71) | [Slides](https://drive.google.com/file/d/1TZYjplDCugUKttzCK0iC0NQi2NJk981a/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1-MrNYaezjHba5MWEJDfd8gHBBuIrXyT8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1tQ1Sw03k6d9D9WhlpvsqdjfdOhJq9efn/view?usp=sharing) |Ch. 11|
 | APR 3 |[Bivariate Data](https://unc.zoom.us/rec/share/3dxOBqjw9kFLRp3O2ULkSrAMOKDYX6a8hCdN-vJbnxuUFkdxuCAnIJfnvHlLqalS )| [Slides](https://drive.google.com/file/d/1iJIgtlK2edd_25XottyPTxki8rhd4jD3/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PapkSw4262yo3ykLqo2sEMy-GYtk4bX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1i2zo0v8NPRBD0RiYLiwoFEw-ShhZK7RZ/view?usp=sharing) |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
-| APR 6 |Intro to Probability|[Slides](https://drive.google.com/file/d/1yftttiOfhGYsWUL6Narzpbl22c1BY0FV/view?usp=sharing)||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
-| APR 8 |Additional Probability|||Ch. 11|
+| APR 6 |[Intro to Probability](https://unc.zoom.us/rec/share/xpdXPauv_X1)|[Slides](https://drive.google.com/file/d/1yftttiOfhGYsWUL6Narzpbl22c1BY0FV/view?usp=sharing)||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 8 |Additional Probability|[Slides](https://drive.google.com/file/d/1ZYE4KATU9RwkdjqH41_xhmPljus7oc2-/view?usp=sharing)||Ch. 11|
 | APR 10 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
-| APR 13 |||||
-| APR 15 |||||
+| APR 13 |Probably Probability|||Ch. 11|
+| APR 15 |Definitely Probability|||Ch. 11|
 | APR 17 |**Midterm 2**|||Ch. 7, 9-10|
 | APR 20 |||||
 | APR 22 |||||
