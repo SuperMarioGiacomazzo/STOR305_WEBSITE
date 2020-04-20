@@ -176,7 +176,7 @@ This course studies operations research decision-making techniques and data anal
 | APR 13 | [Definitely Probability](https://unc.zoom.us/rec/share/tfZOIK_W6lpIfo3P7x7nZ409R6_Xeaa80SVN__Bezk2Kdz2yxdJQpS9roGJ5O2pe?startTime=1586802123000) | [Slides](https://drive.google.com/file/d/1GpIX544RxPjTZDGjmyZl5weH-FBGZdhZ/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1Yso-0vu1UIkt1NvuqnwhFmYccV2b8JIF/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1IgOrm8VVfi64T6Tmd2jmrTZtzMOhF3NY/view?usp=sharing) |Ch. 11|
 | APR 15 | [Discrete Simulation](https://unc.zoom.us/rec/share/vJZqcO-rxkhLWY3y4nuGAZEMWY7faaa803RI-qEKn0xxsbDB8e87NWcP6_LOfBMO?startTime=1586955953000) | [Slides](https://drive.google.com/file/d/1yuPVFN-dI-0LkEFEViDYhOb_aIwiBxhy/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1bGnqGtjEwXKgsNJlP9j5p775xTGc-obw/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1z7kEpLiBAPQ8Nx1-6xsXAOF-kxxJiXqo/view?usp=sharing) |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|
 | APR 17 |**Midterm 2**|||Ch. 7, 9-10|
-| APR 20 | Continuous Simulation | [Slides](https://drive.google.com/file/d/1mPDmSB3b2wc1FDQor-4ZYu9xv0dayGL_/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1nfBbTaFBv0zzkuFdNqp9gYiXxTMx1CBU/view?usp=sharing), [sheet 2](https://drive.google.com/file/d/1ZXer1G5hB7DvleWuy2csVfg6E9l3ok7l/view?usp=sharing) |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 20 | Continuous Simulation | [Slides](https://drive.google.com/file/d/1mPDmSB3b2wc1FDQor-4ZYu9xv0dayGL_/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1nfBbTaFBv0zzkuFdNqp9gYiXxTMx1CBU/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1ZXer1G5hB7DvleWuy2csVfg6E9l3ok7l/view?usp=sharing) |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
 | APR 22 |Final Simulation||||
 | APR 24 |Exam Review||||
 | APR 27 (8AM) |**Final Exam (Section 1)**||||
@@ -203,8 +203,8 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | MAR 6  | Chapter 7,9 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | [Eight](https://drive.google.com/file/d/1VqTBYzxjnzZ4z72-SC_qBKkvG3hewv6X/view?usp=sharing) | MAR 27|
 | MAR 27  |Chapter 9-10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | [Nine](https://drive.google.com/file/d/1q1Y1jm9BVSKChVE0UP-xnjbyt3f7rstx/view?usp=sharing) | APR 3|
 | APR 3  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | [Ten](https://drive.google.com/file/d/1QKmq8cKNQMmCKnTfRhZyRmztZ7KsKj4v/view?usp=sharing) | APR 10|
-| APR 17  |Chapter 11| [Eleven](https://drive.google.com/file/d/1wn2Ebxrbao65wTKwpzIrUhivXUv1XuJx/view?usp=sharing) | | APR 24|
-| APR 17  |Chapter 11-12| [Twelve](https://drive.google.com/file/d/1v9ubw0QVKWkc-mFsGWxRjY_YfTyPKsnO/view?usp=sharing) | | APR 24|
+| APR 17  |Chapter 11| [Eleven](https://drive.google.com/file/d/1wn2Ebxrbao65wTKwpzIrUhivXUv1XuJx/view?usp=sharing) | [Eleven](https://drive.google.com/file/d/1kguisUhp25pjSRfXRS_hniu3i8BaJu62/view?usp=sharing) | APR 24|
+| APR 17  |Chapter 11-12| [Twelve](https://drive.google.com/file/d/1v9ubw0QVKWkc-mFsGWxRjY_YfTyPKsnO/view?usp=sharing) | [Twelve](https://drive.google.com/file/d/12wD-KHD4trjdtwL4fwA6ontXf5-aWPSV/view?usp=sharing) | APR 24|
 |||||
 
 # **Additional Resources**
