@@ -200,16 +200,6 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 |----------|:------:|:-------------:|:-------------:|----------------:|
 | JAN 22  |Chapter 1-2| [One]() | [One]() | JAN 29 |
 | JAN 29  |Chapter 2|[Two]() | [Two]() | FEB 5  |
-| FEB 5  |Chapter 3-4| [Three]() | [Three]() | FEB 12 |
-| FEB 12  |Chapter 5| [Four]() | [Four]() | FEB 19 |
-| FEB 19  |Chapter 6| [Five]() | [Five]() | FEB 26 |
-| MAR 12  |Chapter 7| [Six]()  | [Six]()  | MAR 19 |
-| MAR 19  | Chapter 7  | [Seven](h) | [Seven]() | MAR 26|
-| MAR 26  | Chapter 7,9 | [Eight]() | [Eight]() | APR 2|
-| APR 2   |Chapter 9-10| [Nine]) | [Nine]() | APR 9|
-| APR 9  |Chapter 10| [Ten]() | [Ten]() | APR 16|
-| APR 9   |Chapter 11| [Eleven]() | [Eleven]() | APR 24|
-| APR 9  |Chapter 11-12| [Twelve]()) | [Twelve]() | APR 24|
 |||||
 
 # **Additional Resources**
