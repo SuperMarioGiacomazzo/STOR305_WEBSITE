@@ -101,22 +101,29 @@ This course studies operations research decision-making techniques and data anal
   
 * Instructor: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
 
-* Instructional Assistants: 
+* Instructional Assistant: **[Bongsoo Yi](http://stat-or.unc.edu/people/graduate-students-department)**
 
-    - **[Sam Booth](http://stat-or.unc.edu/people/graduate-students-department)**
-    - **[Xin Wang](http://stat-or.unc.edu/people/graduate-students-department)**
+* Syllabus: **[Section 1]()**
 
-* Course Syllabi:  
+* Description: This course studies operations research decision-making techniques and data analysis using spreadsheets. The topics in the course will be divided into two broad types of problems: optimization and data analysis. Specific topics include:
+    * Break even analysis
+    * Linear programming
+    * Integer programming
+    * Non-linear programming
+    * Goal programming
+    * Descriptive statistics
+    * Visualizing data
+    * Correlation functions
+    * Percentile functions
+    * Linear regression
 
-    - **[Section 1](https://drive.google.com/file/d/1i1vdAwAmUxccQQJFcITE763XqXaibJ_S/view?usp=sharing)**
-    - **[Section 2](https://drive.google.com/file/d/158JNNWJ_ZCBfKi6MYuViYtS5UPtPfENf/view?usp=sharing)**
+* University Approved Absence: **[Online Form](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**
 
 * Zoom Links:
-    - **[Lectures for Section 1:](https://unc.zoom.us/j/548534281)** MWF from 10AM-11:15AM
-    - **[Lectures for Section 2:](https://unc.zoom.us/j/675274886)** MWF from 2:30PM-3:45PM
-    - **[Dr. Mario Office Hours:](https://unc.zoom.us/j/100129995)** T from 9AM - 3PM
-    - **[Sam Office Hours:](https://unc.zoom.us/j/106708102)** Th from 11AM - 1PM
-    - **[Xin Office Hours:](https://unc.zoom.us/j/100129995)** Th from 9AM - 11AM
+    - **[Lecture:](https://unc.zoom.us/j/99041806715?pwd=VFlqaVppSFgzZEljb2Q0N3pDWEU2dz09)** MWF, 9:05AM-9:55AM (PW: doctor305)
+    - **[Dr. 305 Office Hours:](https://unc.zoom.us/j/93136528616)** T, 9:00AM - 1:00PM
+    - **[IA Office Hours:](https://zoom.us/j/94999812866?pwd=VE41L0NXRTBwa043THl2ck9SeFZHZz09)** MW, 9AM - 11AM (PW: bZJ71S)
+  
   </div>
   <div class="column">
   <img src="UNC_Logo.png" width="200px" height="auto">
@@ -129,58 +136,56 @@ This course studies operations research decision-making techniques and data anal
 
 | Date | Topic | Slides | Spreadsheets |Reading|
 |------|---------|--------:|---------:|--------:|
-| JAN 8 |Introduction||||
-| JAN 10 |Break-Even Analysis|[Slides](https://drive.google.com/file/d/1tTIcF4TOwhVMMKSItHnsXv-nSKYE3PF-/view?usp=sharing)||Ch. 1|
-| JAN 13 |Basic Linear Programming| [Slides](https://drive.google.com/file/d/1IpOwCbYp67gMZj9p4wlH_MgCezG2Wq77/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1XjmCJWFwA314lzTUQQS28eZEackA5h5O/view?usp=sharing) |Ch. 1-2|
-| JAN 15 |Additional Linear Programming|[Slides](https://drive.google.com/file/d/14EOSldJO2sUn9NNNGMsdReiV1t-hyZ4V/view?usp=sharing)||Ch. 2|
-| JAN 17 | Special Cases / Computer Solution | [Slides](https://drive.google.com/file/d/1DG-ein8dY6UR5eQhpyNc9Ge-MAR0yJ-l/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1BZL816ZxPGc4R8a7yMbT5sTbP5QxxEbc/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/15rzxdVH1syejlvYV7A1A31Vk8UysgXTs/view?usp=sharing) |Ch. 2-3|
-| JAN 20 |[DREAM WE HAVE CLASS](https://www.youtube.com/watch?v=vP4iY1TtS3s)||||
-| JAN 22 |Sensitivity Analysis| [Slides](https://drive.google.com/file/d/14AZfuuTdE2tzQchRmkkSPpHvJ2qToV2t/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1tONQnoNC3IABKv4Ja7eSY2rvh9hO0Ic-/view?usp=sharing) |Ch. 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
-| JAN 24 |Complex Linear Program/| [Slides](https://drive.google.com/file/d/1cw-mcZaUOCcpJwrcwt8P0jWUXkvqeCQZ/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PwwQC6kSbQNsSWyckjUO-rth91FgKSX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1D1lcLcpcGFkSkeLKyWTMovNNO2mdLML7/view?usp=sharing)  |Ch. 4|
-| |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
-| JAN 27 |Review in Applications| [Slides](https://drive.google.com/file/d/1eFFfUOtbYa7tDNqG4bHT2BXw1wVr2T-Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1CZJHgIvwfbw8Xjfs6HJqw_Icq0Lz5Cxo/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1YZqBnQkOQFEYaYt0l_Z_fDlXDNcuAN2y/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1McQRVWPlGwpoB-MDU1eTrGC484UhbFP6/view?usp=sharing)|Ch, 4|
-| JAN 29 |Basic Integer Programming| [Slides](https://drive.google.com/file/d/1YbcEVMdUj0WjXtom7lmqdyAu1tueLsUg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TlsF5muoHi3B6ZfZN-gpfDMtq94Za0sI/view?usp=sharing) |Ch. 5|
-| JAN 31 |Advanced Integer Programming| [Slides](https://drive.google.com/file/d/1WLK5j5v1u3KjxWGqAkCfNV5429ta5FPx/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1EdVvJBsohhLdhWngqzlWLYmw1onzNTRS/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/14L7ePR6wy9bmbd56OPSC7oe4SuJQjwCn/view?usp=sharing), [Sheet 3](https://drive.google.com/file/d/1k6g26V3BfiLalE-7K7t8d4v9WqwhhDkL/view?usp=sharing) |Ch. 5-6|
-| FEB 3 |Transport/Transship/Assign| [Slides](https://drive.google.com/file/d/1NzXqalZHIUoj_KMmnPmsusrKRNVevctT/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1jOgQUtyGSxmNYC1weqrGYnfvRLK20D8z/view?usp=sharing) |Ch. 6|
-| FEB 5 |Intro to Network Flow| [Slides](https://drive.google.com/file/d/1oVpv-25fnRbIWxzErmU6ZdS18kSj5AoN/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1Gd6o9uyFq7gdzi_XwDr3s5EbXFIWrhXt/view?usp=sharing)|Ch. 6-7, [Link 1](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)|
-| FEB 7 |Shortest Route| [Slides](https://drive.google.com/file/d/1EKKm1lcdOZigFqRcBLX0M8QO5wJpEuh3/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1TPU5ZAQgfn257hdFz-d4gddfiAKYQMo8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1kw77Ei7EZxZzRu-B5RVL22MZdlEtb0N9/view?usp=sharing) |Ch. 7|
-| FEB 10 |Maximal Flow| [Slides](https://drive.google.com/file/d/1KF0Qi4FNwyumZYNnt-nCFQ6fuKGbUDZ4/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/17OtCNX3Ymuw1-UZuw60D807YbgWp2Ixb/view?usp=sharing)|Ch. 7|
-| FEB 12 |Minimal Spanning Tree| [Slides](https://drive.google.com/file/d/194YLlPYuPYNYU3ABkbuVrambbBat3tvg/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1j9du3U9b6zO3NoGGtfvWd-A3vIsUj5rU/view?usp=sharing) |Ch. 7|
-| FEB 14 |Midterm I Prep||| Ch. 1-6|
-| FEB 17 |Intro to Goal Programming| [Slides](https://drive.google.com/file/d/1AJXvOd4xRGLY3JqI8PvtfCm51BZpEz48/view?usp=sharing) | |Ch. 9|
-| FEB 19 |Goal Programming in Excel| [Slides](https://drive.google.com/file/d/1vkEn-Mjr5avthY7p68hSmV4EOi7SeCxy/view?usp=sharing) |  [Sheet 1](https://drive.google.com/file/d/1K4VE_6doK4l2BsmggohOaLu0XatN96B2/view?usp=sharing) |Ch. 9|
-| FEB 21 |[Let It Snow](https://www.youtube.com/watch?v=mN7LW0Y00kE)||||
-| FEB 24 |**Midterm I**| **[Solutions](https://drive.google.com/file/d/1i-xvLkGb3mYwV5iZh4xexgPT0nb9pWEX/view?usp=sharing)**  ||Ch. 1-6|
-| FEB 26 | [Jury Duty](https://www.youtube.com/watch?v=grnUvCNAfGA) |  |||
-| FEB 28 |Goal Programming Case Study| [Slides](https://drive.google.com/file/d/1Y_ZtXiqLlmYdPFQoNn9W5oZkgI2mCvye/view?usp=sharing)| [Sheet 1](https://drive.google.com/file/d/1hqw_peQuaoB-R4UB6HNLty-KZbMt7S-t/view?usp=sharing)|Ch. 9|
-| MAR 2 |Goal Programming Practice/| [Slides](https://drive.google.com/file/d/1-o8aJo22UmAdzfnQy_hPIk0aN_8Bj6Hn/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1SrRtgEztjmLcP53DAri5Vrq5cyd6AnXs/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/17biLPdh7Njd0e2A2AdP6_oRnpeQX4C7u/view?usp=sharing) | Ch. 9 |
-|| Activity |  | [Sheet 3](https://drive.google.com/file/d/1tmxaADPXosYIdvdVvAIupvVFGQYt2THu/view?usp=sharing), [Sheet 4](https://drive.google.com/file/d/1Yc2Jy4LhAIPBDaxU2j4R3zdkYECTki-E/view?usp=sharing) | Ch. 9 |
-| MAR 4 |Intro to Nonlinear Programming| [Slides](https://drive.google.com/file/d/1S3dp0Az9tBkhB37-uEbdffd6g1zhLmA9/view?usp=sharing) |  | Ch. 10 |
-| MAR 6 |More Nonlinear Programming| [Slides](https://drive.google.com/file/d/181742HsmZuAUHlSgBJEovzfP8r6_hSmu/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1cdkt5UOIcfk7IMQ7LLzySyrU_iVvLLgj/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1s0LOflNfAOmDTuYP5WfBFGJjSBFoIFQV/view?usp=sharing) |Ch. 10|
-| |||  [Sheet 3](https://drive.google.com/file/d/1_SLzddyrgBz_IWb36y0tKkr-dienKWUq/view?usp=sharing), [Sheet 4](https://drive.google.com/file/d/1u_CTacucn2iNSZDY2JLJv5VFf9xkzSwv/view?usp=sharing) |Ch. 10|
-| MAR 9 |[SPRING BRIZZEAK I](https://www.youtube.com/watch?v=DobrRgD5aOU)||||
-| MAR 11 |[SPRING BRIZZEAK II](https://www.youtube.com/watch?v=mFWQgxXM_b8)||||
-| MAR 13 |[SPRING BRIZZEAK III](https://www.youtube.com/watch?v=ARe2e7RVwkc)||||
-| MAR 16 |[SPRING BRIZZEAK IV](https://www.youtube.com/watch?v=ojkScPkdgsk)||||
-| MAR 18 |[SPRING BRIZZEAK V](https://www.youtube.com/watch?v=C-ADAwfrwGs)||||
-| MAR 20 |[SPRING BRIZZEAK VI](https://www.youtube.com/watch?v=Md6Dvxdr0AQ)||||
-| MAR 23 | [Changes to the Course](https://unc.zoom.us/rec/share/ytxXMq3a3F1Ofq_NwxHEcLF8F9nCX6a8g3Ie-6IJn0ohlO7z8HJ-syr6HcO-jaP3?startTime=1584970635000) ||||
-| MAR 25 |[More Nonlinear Examples](https://unc.zoom.us/rec/share/2fJ6NrHb13FOGoXX8W_Rf48OMbnMeaa8gSMY8_RZxUbKxcRBnASpY44nvIur84Nc)| [Slides](https://drive.google.com/file/d/1KhHyCfaGv8oKKLLXIIcWm3BRknKwVIJr/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1f8LyH5BE1xAObdmsubd2Ii3UgKwav4r2/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1M0wOynt5YjqU5QphiUnhqI9aReA-TV_8/view?usp=sharing) |Ch. 10|
-| MAR 27 | [Nonlinear Case Study](https://unc.zoom.us/rec/share/wdxYELHt_GlJGbOR4n_DcfQ9MYTLX6a8gCMYrKBZzRpho-jPwlLuVTBvJf-vpj3-?startTime=1585317625000) | [Slides](https://drive.google.com/file/d/1rGGNby3_nqAqGsV6aQpM-qN0EEk0RaK-/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1SCEiUL9mBI91QW6zBBGLkZXYMZIFBNv2/view?usp=sharing) |Ch. 10|
-| MAR 30 |[Descriptive Statistics](https://unc.zoom.us/rec/share/w51KDujQ5lhOWpWV1WvWX7B5M5X3aaa8hCdI_PBcy0vcgks3bOFwmNIhhtGYPfmE?startTime=1585591743000)| [Slides](https://drive.google.com/file/d/18004w7YfFbWfypbtlyPs8YaMC2dG6wvz/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/17rK2J59IjJi3ITf2qhNbb2M2azA1NThp/view?usp=sharing) |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
-| APR 1 | [More Descriptive Statistics](https://unc.zoom.us/rec/play/u5MrJruspzk3T4fB5QSDV6BwW427La-s1CJIrqAFxBu2U3ALOgakZroQZebGyNLQZTLodIV6rIziylH1?continueMode=true&_x_zm_rtaid=1T-k5LzYQHGzCFzqps7c2Q.1585769527457.6f066fe3dc6d7bc66fbffa7949dee196&_x_zm_rhtaid=71) | [Slides](https://drive.google.com/file/d/1TZYjplDCugUKttzCK0iC0NQi2NJk981a/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1-MrNYaezjHba5MWEJDfd8gHBBuIrXyT8/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1tQ1Sw03k6d9D9WhlpvsqdjfdOhJq9efn/view?usp=sharing) |Ch. 11|
-| APR 3 |[Bivariate Data](https://unc.zoom.us/rec/share/3dxOBqjw9kFLRp3O2ULkSrAMOKDYX6a8hCdN-vJbnxuUFkdxuCAnIJfnvHlLqalS )| [Slides](https://drive.google.com/file/d/1iJIgtlK2edd_25XottyPTxki8rhd4jD3/view?usp=sharing) |[Sheet 1](https://drive.google.com/file/d/10PapkSw4262yo3ykLqo2sEMy-GYtk4bX/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1i2zo0v8NPRBD0RiYLiwoFEw-ShhZK7RZ/view?usp=sharing) |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
-| APR 6 |[Intro to Probability](https://unc.zoom.us/rec/share/xpdXPauv_X1JaKvWuUrOZ7YTFIHbX6a80ShL_PIImEYVgRmUHDDWWT9wJ3lmohhf?startTime=1586181533000)|[Slides](https://drive.google.com/file/d/1yftttiOfhGYsWUL6Narzpbl22c1BY0FV/view?usp=sharing)||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
-| APR 8 |[Additional Probability](https://unc.zoom.us/rec/share/-uh1DuDIrFxJBZ31smPBc6UvE9Tcaaa80CUZ_6EOnk18jbEFxTdOkkqKtqUAeCoh)|[Slides](https://drive.google.com/file/d/1ZYE4KATU9RwkdjqH41_xhmPljus7oc2-/view?usp=sharing)||Ch. 11|
-| APR 10 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
-| APR 13 | [Definitely Probability](https://unc.zoom.us/rec/share/tfZOIK_W6lpIfo3P7x7nZ409R6_Xeaa80SVN__Bezk2Kdz2yxdJQpS9roGJ5O2pe?startTime=1586802123000) | [Slides](https://drive.google.com/file/d/1GpIX544RxPjTZDGjmyZl5weH-FBGZdhZ/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1Yso-0vu1UIkt1NvuqnwhFmYccV2b8JIF/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1IgOrm8VVfi64T6Tmd2jmrTZtzMOhF3NY/view?usp=sharing) |Ch. 11|
-| APR 15 | [Discrete Simulation](https://unc.zoom.us/rec/share/vJZqcO-rxkhLWY3y4nuGAZEMWY7faaa803RI-qEKn0xxsbDB8e87NWcP6_LOfBMO?startTime=1586955953000) | [Slides](https://drive.google.com/file/d/1yuPVFN-dI-0LkEFEViDYhOb_aIwiBxhy/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1bGnqGtjEwXKgsNJlP9j5p775xTGc-obw/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1z7kEpLiBAPQ8Nx1-6xsXAOF-kxxJiXqo/view?usp=sharing) |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|
-| APR 17 |**Midterm 2**|**[Solutions](https://drive.google.com/file/d/1GvxPF0mNb1YNTz989nOZCJqUZ4gMI-IZ/view?usp=sharing)**|  [Sheets](https://drive.google.com/file/d/1XyY0Y8UKntBTOse-0glMQfFIBe09l01w/view?usp=sharing) |Ch. 7, 9-10|
-| APR 20 | [Continuous Simulation](https://unc.zoom.us/rec/share/4M5SJLHMpmVIH53O-kKBAqc8P7XaX6a8gCYa_aIFn0qkXguo7VK-LdZdO94shT6m ) | [Slides](https://drive.google.com/file/d/1mPDmSB3b2wc1FDQor-4ZYu9xv0dayGL_/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1nfBbTaFBv0zzkuFdNqp9gYiXxTMx1CBU/view?usp=sharing) |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
-| APR 22 | [Final Simulation](https://unc.zoom.us/rec/share/vc9LF4PXy1lJEtb89kzYep8mNLngT6a81yFKq_dbziCD1p18aVz4mUC_02WCR2c ) | [Slides](https://drive.google.com/file/d/1DnK1G8QuOLUG44uoCYK-fPrDU7goVU9Z/view?usp=sharing) | [Sheet 1](https://drive.google.com/file/d/1g0a-1WE1nvQ0G2UyfwLQv2xMwyIboeah/view?usp=sharing), [Sheet 2](https://drive.google.com/file/d/1dkvQpbPCg2PVlGoPv0ZFK4_Y6mFIeju8/view?usp=sharing) | Ch. 13-14|
-| APR 24 |Exam Review||||
-| APR 27 (8AM) |**Final Exam (Section 1)**||||
-| May 5 (8AM)|**Final Exam (Section 2)**||||
+| JAN 20 |Introduction||||
+| JAN 22 |Break-Even Analysis|[Slides]()||Ch. 1|
+| JAN 25 |Basic Linear Programming| [Slides]() | [Sheet 1]() |Ch. 1-2|
+| JAN 27 |Additional Linear Programming|[Slides]()||Ch. 2|
+| JAN 29 | Special Cases / Computer Solution | [Slides]()| [Sheet 1](), [Sheet 2]() |Ch. 2-3|
+| FEB 1 |Sensitivity Analysis| [Slides]()| [Sheet 1]() |Ch. 3, [Link 1]() |
+| FEB 3 |Complex Linear Program/| [Slides]() |[Sheet 1](), [Sheet 2]()  |Ch. 4|
+| |Linear Algebra| ||[Link 1](),  [Link 2]() |
+| FEB 5 |Review in Applications| [Slides]() | [Sheet 1](), [Sheet 2](), [Sheet 3]()|Ch, 4|
+| FEB 8 |Basic Integer Programming| [Slides]() | [Sheet 1]() |Ch. 5|
+| FEB 10 |Advanced Integer Programming| [Slides]() | [Sheet 1](), [Sheet 2](), [Sheet 3]() |Ch. 5-6|
+| FEB 12 |Transport/Transship/Assign| [Slides]() | [Sheet 1]() |Ch. 6|
+| FEB 15 |Wellness Day I||||
+| FEB 17 |Intro to Network Flow| [Slides]() | [Sheet 1]()|Ch. 6-7, [Link 1]()|
+| FEB 19 |Shortest Route| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 7|
+| FEB 22 |Maximal Flow| [Slides]()| [Sheet 1]()|Ch. 7|
+| FEB 24 |Midterm 1 Review| |  |Ch. 1-5|
+| FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
+| MAR 1 |Minimal Spanning Tree| [Slides]() | [Sheet 1]() |Ch. 7|
+| MAR 3 |Intro to Goal Programming| [Slides]() | |Ch. 9|
+| MAR 5 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
+| MAR 8 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|
+| MAR 10 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
+|| Activity |  | [Sheet 3](), [Sheet 4]() | Ch. 9 |
+| MAR 12 |Wellness Day II||||
+| MAR 15 |Intro to Nonlinear Programming| [Slides]() |  | Ch. 10 |
+| MAR 17 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| |||  [Sheet 3](), [Sheet 4]() |Ch. 10|
+| MAR 19 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 22 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
+| MAR 24 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
+| MAR 26 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| MAR 29 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
+| MAR 31 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
+| APR 5 |Wellness Day III||||
+| APR 7 |Midterm 2 Review|||Ch. 7, 9-10| 
+| APR 9 |Midterm 2|**[Solutions]()**||Ch. 7, 9-10|
+| APR 12 |Additional Probability|[Slides]()||Ch. 11|
+| APR 14 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 16 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
+| APR 19 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 21 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
+| APR 23 |TBD||||||||
+| APR 26 |TBD||||||||
+| APR 28 |TBD||||||||
+| APR 30 |TBD||||||||
+| MAY 3 |TBD||||||||
+| MAY 5 |Exam Review||||||||
+| May 13 (8AM)|Final Exam||||
 |          |        |             |           |
 
 
@@ -193,18 +198,18 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 
 | Assigned| Material | Homework |Solutions| Due |
 |----------|:------:|:-------------:|:-------------:|----------------:|
-| JAN 10  |Chapter 1-2| [One](https://drive.google.com/file/d/1p7Ur6E5H3GLu8w5d1j4cZ40LKQqPaJqI/view?usp=sharing) | [One](https://drive.google.com/file/d/1Eb0GTP1ddMw8yUc6hTLTH7P_8h27tA4K/view?usp=sharing) | JAN 17 |
-| JAN 17  |Chapter 2|[Two](https://drive.google.com/file/d/1FugtrZ3yT_JSV8krdfUm1C9NZb018-qo/view?usp=sharing) | [Two](https://drive.google.com/file/d/1bhlEKnqdpdxZIA6HP0rnu6AJtFypJZHI/view?usp=sharing) | JAN 24 |
-| JAN 24  |Chapter 3-4| [Three](https://drive.google.com/file/d/1QyaSj1GcWJCP9sk5vxxeKyLi_Bgzfr2w/view?usp=sharing) | [Three](https://drive.google.com/file/d/1Jvt1LTmvmZtl-PrE2fiJXfVQa6Gkw3jn/view?usp=sharing) | JAN 31 |
-| JAN 31  |Chapter 5| [Four](https://drive.google.com/file/d/1YqPCVaIO2bn83KENrRrI2H_6J8t4gUEA/view?usp=sharing) | [Four](https://drive.google.com/file/d/19uC1Yd48OY_Pn3UFvhIh0X097ETqVBrX/view?usp=sharing) | FEB 7 |
-| FEB 7  |Chapter 6| [Five](https://drive.google.com/file/d/1ONvkLlvOgVB9u-l0Ot2IsZ15IYIrAiGI/view?usp=sharing) | [Five](https://drive.google.com/file/d/1sphis0y10Ejuv4d-hqGLo2llZLEAk_Sv/view?usp=sharing) | FEB 14 |
-| FEB 21  |Chapter 7| [Six](https://drive.google.com/file/d/1WUY_UMK_hfN331KC0y1GJM7mC1Fk14iS/view?usp=sharing)  | [Six](https://drive.google.com/file/d/1q6Y69Wh8tIH1qsqEZ6hn1IpHXtBnt6TL/view?usp=sharing)  | FEB 28 |
-| FEB 28  | Chapter 7  | [Seven](https://drive.google.com/file/d/11u3pu-u4TriBxqOJcWGonzVaglfBdnAk/view?usp=sharing) | [Seven](https://drive.google.com/file/d/1bq2QZDp7JFamm5jVZDv8kSk6Ij7bxcKl/view?usp=sharing) | MAR 6|
-| MAR 6  | Chapter 7,9 | [Eight](https://drive.google.com/file/d/1sMlolNQraH1OhJ1r6WKAJXVBQlTgsS_1/view?usp=sharing) | [Eight](https://drive.google.com/file/d/1VqTBYzxjnzZ4z72-SC_qBKkvG3hewv6X/view?usp=sharing) | MAR 27|
-| MAR 27  |Chapter 9-10| [Nine](https://drive.google.com/file/d/1hYezPTwZnNlz3cxs6RxrY7CxJ_0NVgo7/view?usp=sharing) | [Nine](https://drive.google.com/file/d/1q1Y1jm9BVSKChVE0UP-xnjbyt3f7rstx/view?usp=sharing) | APR 3|
-| APR 3  |Chapter 10| [Ten](https://drive.google.com/file/d/1QlsqIxfPL7wGFbpObrwS8CxIe4YwJXVl/view?usp=sharing) | [Ten](https://drive.google.com/file/d/1QKmq8cKNQMmCKnTfRhZyRmztZ7KsKj4v/view?usp=sharing) | APR 10|
-| APR 17  |Chapter 11| [Eleven](https://drive.google.com/file/d/1wn2Ebxrbao65wTKwpzIrUhivXUv1XuJx/view?usp=sharing) | [Eleven](https://drive.google.com/file/d/1kguisUhp25pjSRfXRS_hniu3i8BaJu62/view?usp=sharing) | APR 24|
-| APR 17  |Chapter 11-12| [Twelve](https://drive.google.com/file/d/1v9ubw0QVKWkc-mFsGWxRjY_YfTyPKsnO/view?usp=sharing) | [Twelve](https://drive.google.com/file/d/12wD-KHD4trjdtwL4fwA6ontXf5-aWPSV/view?usp=sharing) | APR 24|
+| JAN 22  |Chapter 1-2| [One]() | [One]() | JAN 29 |
+| JAN 29  |Chapter 2|[Two]() | [Two]() | FEB 5  |
+| FEB 5  |Chapter 3-4| [Three]() | [Three]() | FEB 12 |
+| FEB 12  |Chapter 5| [Four]() | [Four]() | FEB 19 |
+| FEB 19  |Chapter 6| [Five]() | [Five]() | FEB 26 |
+| MAR 12  |Chapter 7| [Six]()  | [Six]()  | MAR 19 |
+| MAR 19  | Chapter 7  | [Seven](h) | [Seven]() | MAR 26|
+| MAR 26  | Chapter 7,9 | [Eight]() | [Eight]() | APR 2|
+| APR 2   |Chapter 9-10| [Nine]) | [Nine]() | APR 9|
+| APR 9  |Chapter 10| [Ten]() | [Ten]() | APR 16|
+| APR 9   |Chapter 11| [Eleven]() | [Eleven]() | APR 24|
+| APR 9  |Chapter 11-12| [Twelve]()) | [Twelve]() | APR 24|
 |||||
 
 # **Additional Resources**
