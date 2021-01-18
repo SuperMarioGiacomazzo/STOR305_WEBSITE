@@ -103,7 +103,7 @@ This course studies operations research decision-making techniques and data anal
 
 * Instructional Assistant: **[Bongsoo Yi](http://stat-or.unc.edu/people/graduate-students-department)**
 
-* Syllabus: **[Section 1]()**
+* Syllabus: **[Section 1](Syllabi/305.001 Syllabus.pdf)**
 
 * Description: This course studies operations research decision-making techniques and data analysis using spreadsheets. The topics in the course will be divided into two broad types of problems: optimization and data analysis. Specific topics include:
     * Break even analysis
@@ -137,7 +137,7 @@ This course studies operations research decision-making techniques and data anal
 | Date | Topic | Slides | Spreadsheets |Reading|
 |------|---------|--------:|---------:|--------:|
 | JAN 20 |Introduction||||
-| JAN 22 |Break-Even Analysis|[Slides]()||Ch. 1|
+| JAN 22 |Break-Even Analysis|[Slides](Lectures/Lecture 1/Lecture 1.pdf)||Ch. 1|
 | JAN 25 |Basic Linear Programming| [Slides]() | [Sheet 1]() |Ch. 1-2|
 | JAN 27 |Additional Linear Programming|[Slides]()||Ch. 2|
 | JAN 29 | Special Cases / Computer Solution | [Slides]()| [Sheet 1](), [Sheet 2]() |Ch. 2-3|
