@@ -136,7 +136,7 @@ This course studies operations research decision-making techniques and data anal
 
 | Date | Topic | Slides | Spreadsheets |Reading|
 |------|---------|--------:|---------:|--------:|
-| JAN 20 |Introduction||||
+| JAN 20 | [Introduction](https://unc.zoom.us/rec/share/hT1wwu1bNgfno1cfeP2jgzGRSOzYdOntngHnBZqAxMnexxdZfaBg4zDPPBVzJ5pK.5Ahgu1TKtZvhCX_J?startTime=1611151307000) ||||
 | JAN 22 |Break-Even Analysis|[Slides](Lectures/Lecture 1/Lecture 1.pdf)||Ch. 1|
 | JAN 25 |Basic Linear Programming| [Slides]() | [Sheet 1]() |Ch. 1-2|
 | JAN 27 |Additional Linear Programming|[Slides]()||Ch. 2|
