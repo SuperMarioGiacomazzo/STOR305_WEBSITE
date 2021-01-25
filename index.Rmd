@@ -138,7 +138,7 @@ This course studies operations research decision-making techniques and data anal
 |------|---------|--------:|---------:|--------:|
 | JAN 20 | [Introduction](https://unc.zoom.us/rec/share/hT1wwu1bNgfno1cfeP2jgzGRSOzYdOntngHnBZqAxMnexxdZfaBg4zDPPBVzJ5pK.5Ahgu1TKtZvhCX_J?startTime=1611151307000) ||||
 | JAN 22 | [Break-Even Analysis](https://unc.zoom.us/rec/share/jBxJdR7IAGP5syAcDGWG6QNbLauAlpxNKp-bair58Pk1Dh5hXKU5xUUvQOXcPXsY.6vz157h2xwpuHty8?startTime=1611324031000) |[Slides](Lectures/Lecture 1/Lecture 1.pdf)||Ch. 1|
-| JAN 25 |Basic Linear Programming| [Slides](Lectures/Lecture 2/Lecture 2.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%202/BreakEven.xlsx) |Ch. 1-2|
+| JAN 25 | [Basic Linear Programming](https://unc.zoom.us/rec/share/-2ImFveL0wV3DkK2GsS2n0DGuLFWw40CXkW0VkyhjbBLIsCO1QUS10QE_fSaQaM.U8NRQEH0agfy4IRm?startTime=1611583472000) | [Slides](Lectures/Lecture 2/Lecture 2.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%202/BreakEven.xlsx) |Ch. 1-2|
 | JAN 27 |Additional Linear Programming|[Slides]()||Ch. 2|
 | JAN 29 | Special Cases / Computer Solution | [Slides]()| [Sheet 1](), [Sheet 2]() |Ch. 2-3|
 | FEB 1 |Sensitivity Analysis| [Slides]()| [Sheet 1]() |Ch. 3, [Link 1]() |
