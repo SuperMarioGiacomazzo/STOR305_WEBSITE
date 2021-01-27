@@ -140,7 +140,7 @@ This course studies operations research decision-making techniques and data anal
 | JAN 22 | [Break-Even Analysis](https://unc.zoom.us/rec/share/jBxJdR7IAGP5syAcDGWG6QNbLauAlpxNKp-bair58Pk1Dh5hXKU5xUUvQOXcPXsY.6vz157h2xwpuHty8?startTime=1611324031000) |[Slides](Lectures/Lecture 1/Lecture 1.pdf)||Ch. 1|
 | JAN 25 | [Basic Linear Programming](https://unc.zoom.us/rec/share/-2ImFveL0wV3DkK2GsS2n0DGuLFWw40CXkW0VkyhjbBLIsCO1QUS10QE_fSaQaM.U8NRQEH0agfy4IRm?startTime=1611583472000) | [Slides](Lectures/Lecture 2/Lecture 2.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%202/BreakEven.xlsx) |Ch. 1-2|
 | JAN 27 |Additional Linear Programming| [Slides](Lectures/Lecture 3/Lecture 3.pdf) ||Ch. 2|
-| JAN 29 | Special Cases / Computer Solution | [Slides]()| [Sheet 1](), [Sheet 2]() |Ch. 2-3|
+| JAN 29 | Special Cases / Computer Solution | [Slides](Lectures/Lecture 4/Lecture 4.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/BeaverCreek.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/AnnabelleInvest.xlsx) |Ch. 2-3|
 | FEB 1 |Sensitivity Analysis| [Slides]()| [Sheet 1]() |Ch. 3, [Link 1]() |
 | FEB 3 |Complex Linear Program/| [Slides]() |[Sheet 1](), [Sheet 2]()  |Ch. 4|
 | |Linear Algebra| ||[Link 1](),  [Link 2]() |
@@ -189,7 +189,15 @@ This course studies operations research decision-making techniques and data anal
 |          |        |             |           |
 
 
+# **Asynchronous Mini-Lectures**
 
+For additional resources, check out these mini-lectures designed by Will Lassiter and Mariana Olvera-Cravioto. My advice is to watch these before class so that you may be better prepared on key content before class. 
+
+| Week | Video |
+|:----------:|:------:|
+| JAN 25-29 | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=706bda25-79fd-41b5-8b35-acb50183ed89) |
+| JAN 25-29  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d8eff58-3eea-477b-a212-acb8015e971a) |
+|||||
 
 
 # **Assignment Tracker**
