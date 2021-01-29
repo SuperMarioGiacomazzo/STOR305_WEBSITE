@@ -140,7 +140,7 @@ This course studies operations research decision-making techniques and data anal
 | JAN 22 | [Break-Even Analysis](https://unc.zoom.us/rec/share/jBxJdR7IAGP5syAcDGWG6QNbLauAlpxNKp-bair58Pk1Dh5hXKU5xUUvQOXcPXsY.6vz157h2xwpuHty8?startTime=1611324031000) |[Slides](Lectures/Lecture 1/Lecture 1.pdf)||Ch. 1|
 | JAN 25 | [Basic Linear Programming](https://unc.zoom.us/rec/share/-2ImFveL0wV3DkK2GsS2n0DGuLFWw40CXkW0VkyhjbBLIsCO1QUS10QE_fSaQaM.U8NRQEH0agfy4IRm?startTime=1611583472000) | [Slides](Lectures/Lecture 2/Lecture 2.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%202/BreakEven.xlsx) |Ch. 1-2|
 | JAN 27 | [Additional Linear Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed942ead-2ab4-4de7-980f-acbd00fc122f) | [Slides](Lectures/Lecture 3/Lecture 3.pdf) ||Ch. 2|
-| JAN 29 | Special Cases / Computer Solution | [Slides](Lectures/Lecture 4/Lecture 4.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/BeaverCreek.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/AnnabelleInvest.xlsx) |Ch. 2-3|
+| JAN 29 | [Special Cases / Computer Solution](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd278598-f82c-4862-9d52-acbf00fc2754) | [Slides](Lectures/Lecture 4/Lecture 4.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/BeaverCreek.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/AnnabelleInvest.xlsx) |Ch. 2-3|
 | FEB 1 |Sensitivity Analysis| [Slides]()| [Sheet 1]() |Ch. 3, [Link 1]() |
 | FEB 3 |Complex Linear Program/| [Slides]() |[Sheet 1](), [Sheet 2]()  |Ch. 4|
 | |Linear Algebra| ||[Link 1](),  [Link 2]() |
@@ -207,7 +207,7 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | Assigned| Material | Homework |Solutions| Due |
 |----------|:------:|:-------------:|:-------------:|----------------:|
 | JAN 22  |Chapter 1-2| [HW1](Homework/HW1.pdf) | [HW1]() | JAN 29 |
-| JAN 29  |Chapter 2|   [HW2]() | [HW2]() | FEB 5  |
+| JAN 29  |Chapter 2|   [HW2](Homework/HW1.pdf) | [HW2]() | FEB 5  |
 |||||
 
 # **Additional Resources**
