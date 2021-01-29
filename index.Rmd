@@ -197,6 +197,8 @@ For additional resources, check out these mini-lectures designed by Will Lassite
 |:----------:|:------:|
 | JAN 25-29 | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=706bda25-79fd-41b5-8b35-acb50183ed89) |
 | JAN 25-29  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d8eff58-3eea-477b-a212-acb8015e971a) |
+| FEB 1-5  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=271d3b7d-1f28-4585-bfa6-acbf0104fdae) |
+| FEB 1-5  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31d43452-2690-4b6d-9480-acbf01051115) |
 |||||
 
 
@@ -207,7 +209,7 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | Assigned| Material | Homework |Solutions| Due |
 |----------|:------:|:-------------:|:-------------:|----------------:|
 | JAN 22  |Chapter 1-2| [HW1](Homework/HW1.pdf) | [HW1]() | JAN 29 |
-| JAN 29  |Chapter 2|   [HW2](Homework/HW1.pdf) | [HW2]() | FEB 5  |
+| JAN 29  |Chapter 2|   [HW2](Homework/HW2.pdf) | [HW2]() | FEB 5  |
 |||||
 
 # **Additional Resources**
