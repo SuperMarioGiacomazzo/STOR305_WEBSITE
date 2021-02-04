@@ -142,44 +142,43 @@ This course studies operations research decision-making techniques and data anal
 | JAN 27 | [Additional Linear Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ed942ead-2ab4-4de7-980f-acbd00fc122f) | [Slides](Lectures/Lecture 3/Lecture 3.pdf) ||Ch. 2|
 | JAN 29 | [Special Cases / Computer Solution](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd278598-f82c-4862-9d52-acbf00fc2754) | [Slides](Lectures/Lecture 4/Lecture 4.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/BeaverCreek.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/AnnabelleInvest.xlsx) |Ch. 2-3|
 | FEB 1 | [Sensitivity Analysis](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a822163e-91ef-49ea-a915-acc200fe188f) | [Slides](Lectures/Lecture 5/Lecture 5.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%205/BeaverCreek.xlsx) |Ch. 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
-| FEB 3 |Complex Linear Program/| [Slides](Lectures/Lecture 6/Lecture 6.pdf) |[Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/ProductMix.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/Lecture6WS.xlsx)  |Ch. 4|
-| |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
-| FEB 5 |Review in Applications| [Slides](Lectures/Lecture 7/Lecture 7.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Investment-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Transportation-1.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/MultiSchedule-1.xlsx)|Ch, 4|
-| FEB 8 |Basic Integer Programming| [Slides]() | [Sheet 1]() |Ch. 5|
-| FEB 10 |Advanced Integer Programming| [Slides]() | [Sheet 1](), [Sheet 2](), [Sheet 3]() |Ch. 5-6|
-| FEB 12 |Transport/Transship/Assign| [Slides]() | [Sheet 1]() |Ch. 6|
+| FEB 3 | [Complex Linear Program/](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72586ab6-ee74-4b66-aba0-acc4010ad12a) | [Slides](Lectures/Lecture 6/Lecture 6.pdf) |[Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/ProductMix.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/Lecture6WS.xlsx)  |Ch. 4|
+| FEB 5 |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
+| FEB 9 |Review in Applications| [Slides](Lectures/Lecture 7/Lecture 7.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Investment-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Transportation-1.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/MultiSchedule-1.xlsx)|Ch, 4|
+| FEB 10 |Basic Integer Programming| [Slides]() | [Sheet 1]() |Ch. 5|
+| FEB 12 |Advanced Integer Programming| [Slides]() | [Sheet 1](), [Sheet 2](), [Sheet 3]() |Ch. 5-6|
 | FEB 15 |Wellness Day I||||
-| FEB 17 |Intro to Network Flow| [Slides]() | [Sheet 1]()|Ch. 6-7, [Link 1]()|
-| FEB 19 |Shortest Route| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 7|
-| FEB 22 |Maximal Flow| [Slides]()| [Sheet 1]()|Ch. 7|
+| FEB 17 |Transport/Transship/Assign| [Slides]() | [Sheet 1]() |Ch. 6|
+| FEB 19 |Intro to Network Flow| [Slides]() | [Sheet 1]()|Ch. 6-7, [Link 1]()|
+| FEB 22 |Shortest Route| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 7|
 | FEB 24 |Midterm 1 Review| |  |Ch. 1-5|
 | FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
-| MAR 1 |Minimal Spanning Tree| [Slides]() | [Sheet 1]() |Ch. 7|
-| MAR 3 |Intro to Goal Programming| [Slides]() | |Ch. 9|
-| MAR 5 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
-| MAR 8 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|
-| MAR 10 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
-|| Activity |  | [Sheet 3](), [Sheet 4]() | Ch. 9 |
+| MAR 1 |Maximal Flow| [Slides]()| [Sheet 1]()|Ch. 7|
+| MAR 3 |Minimal Spanning Tree| [Slides]() | [Sheet 1]() |Ch. 7|
+| MAR 5 |Intro to Goal Programming| [Slides]() | |Ch. 9|
+| MAR 8 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
+| MAR 10 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|4
 | MAR 12 |Wellness Day II||||
-| MAR 15 |Intro to Nonlinear Programming| [Slides]() |  | Ch. 10 |
-| MAR 17 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 15 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
+|| Activity |  | [Sheet 3](), [Sheet 4]() | Ch. 9 |
+| MAR 17 |Intro to Nonlinear Programming| [Slides]() |  | Ch. 10 |
+| MAR 19 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
 | |||  [Sheet 3](), [Sheet 4]() |Ch. 10|
-| MAR 19 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
-| MAR 22 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
-| MAR 24 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
-| MAR 26 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| MAR 29 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
-| MAR 31 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| MAR 22 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 24 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
+| MAR 26 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
+| MAR 29 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| MAR 31 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 5 |Wellness Day III||||
 | APR 7 |Midterm 2 Review|||Ch. 7, 9-10| 
 | APR 9 |Midterm 2|**[Solutions]()**||Ch. 7, 9-10|
-| APR 12 |Additional Probability|[Slides]()||Ch. 11|
-| APR 14 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| APR 16 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
-| APR 19 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
-| APR 21 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
-| APR 23 |TBD||||||||
+| APR 12 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 14 |Additional Probability|[Slides]()||Ch. 11|
+| APR 16 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 19 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
+| APR 21 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 23 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
 | APR 26 |TBD||||||||
 | APR 28 |TBD||||||||
 | APR 30 |TBD||||||||
