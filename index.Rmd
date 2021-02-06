@@ -143,10 +143,10 @@ This course studies operations research decision-making techniques and data anal
 | JAN 29 | [Special Cases / Computer Solution](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dd278598-f82c-4862-9d52-acbf00fc2754) | [Slides](Lectures/Lecture 4/Lecture 4.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/BeaverCreek.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%204/AnnabelleInvest.xlsx) |Ch. 2-3|
 | FEB 1 | [Sensitivity Analysis](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a822163e-91ef-49ea-a915-acc200fe188f) | [Slides](Lectures/Lecture 5/Lecture 5.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%205/BeaverCreek.xlsx) |Ch. 3, [Link 1](https://www.excel-easy.com/examples/sensitivity-analysis.html) |
 | FEB 3 | [Complex Linear Program/](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72586ab6-ee74-4b66-aba0-acc4010ad12a) | [Slides](Lectures/Lecture 6/Lecture 6.pdf) |[Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/ProductMix.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%206/Lecture6WS.xlsx)  |Ch. 4|
-| FEB 5 |Linear Algebra| ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
+| FEB 5 | [Linear Algebra](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17c474ce-1e91-4cac-b4f9-acc600ff82bc) | ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
 | FEB 9 |Review in Applications| [Slides](Lectures/Lecture 7/Lecture 7.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Investment-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Transportation-1.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/MultiSchedule-1.xlsx)|Ch, 4|
-| FEB 10 |Basic Integer Programming| [Slides]() | [Sheet 1]() |Ch. 5|
-| FEB 12 |Advanced Integer Programming| [Slides]() | [Sheet 1](), [Sheet 2](), [Sheet 3]() |Ch. 5-6|
+| FEB 10 |Basic Integer Programming| [Slides](Lectures/Lecture 8/Lecture 8.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%208/MachineShop.xlsx) |Ch. 5|
+| FEB 12 |Advanced Integer Programming| [Slides](Lectures/Lecture 9/Lecture 9.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/CapitalBudgeting.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/SetCovering.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/Mills.xlsx) |Ch. 5-6|
 | FEB 15 |Wellness Day I||||
 | FEB 17 |Transport/Transship/Assign| [Slides]() | [Sheet 1]() |Ch. 6|
 | FEB 19 |Intro to Network Flow| [Slides]() | [Sheet 1]()|Ch. 6-7, [Link 1]()|
@@ -198,8 +198,8 @@ For additional resources, check out these mini-lectures designed by Will Lassite
 | JAN 25-29  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d8eff58-3eea-477b-a212-acb8015e971a) |
 | FEB 1-5  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=271d3b7d-1f28-4585-bfa6-acbf0104fdae) |
 | FEB 1-5  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31d43452-2690-4b6d-9480-acbf01051115) |
-| FEB 8-12  | Link |
-| FEB 8-12  | Link |
+| FEB 8-12  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db840305-1e73-40c8-8332-acc60132f5a3) |
+| FEB 8-12  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=396757ed-b666-4e38-a57e-acc60133062d) |
 |||||
 
 
