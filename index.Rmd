@@ -210,7 +210,7 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | Assigned| Material | Homework |Solutions| Due |
 |----------|:------:|:-------------:|:-------------:|----------------:|
 | JAN 22  |Chapter 1-2| [HW1](Homework/HW1.pdf) | [HW1](Homework/SOLUTION_HW1.pdf) | JAN 29 |
-| JAN 29  |Chapter 2|   [HW2](Homework/HW2.pdf) | HW2 | FEB 5  |
+| JAN 29  |Chapter 2|   [HW2](Homework/HW2.pdf) | [HW2](Homework/SOLUTION_HW2.pdf) | FEB 5  |
 | FEB 5  |Chapter 3-4|   [HW3](Homework/HW3.pdf) | HW3 | FEB 12  |
 |||||
 
