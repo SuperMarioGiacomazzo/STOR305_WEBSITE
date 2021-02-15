@@ -146,7 +146,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 5 | [Linear Algebra](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17c474ce-1e91-4cac-b4f9-acc600ff82bc) | ||[Link 1](https://exceljet.net/excel-functions/excel-mmult-function),  [Link 2](https://www.excel-easy.com/examples/sumproduct.html) |
 | FEB 8 | [Review in Applications](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=999b02a4-5d0e-4ecb-a9af-acc900ff3cee) | [Slides](Lectures/Lecture 7/Lecture 7.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Investment-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/Transportation-1.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%207/MultiSchedule-1.xlsx)|Ch. 4|
 | FEB 10 | [Basic Integer Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5565d57-f4a0-44a4-b483-accb00fd2af8) | [Slides](Lectures/Lecture 8/Lecture 8.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%208/MachineShop.xlsx) |Ch. 5|
-| FEB 12 |Advanced Integer Programming| [Slides](Lectures/Lecture 9/Lecture 9.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/CapitalBudgeting.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/SetCovering.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/Mills.xlsx) |Ch. 5-6|
+| FEB 12 | [Advanced Integer Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7297dd6-29d2-4b1f-a4e4-accd00fdc1da) | [Slides](Lectures/Lecture 9/Lecture 9.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/CapitalBudgeting.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/SetCovering.xlsx), [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%209/Mills.xlsx) |Ch. 5-6|
 | FEB 15 |Wellness Day I||||
 | FEB 17 |Transport/Transship/Assign| [Slides]() | [Sheet 1]() |Ch. 6|
 | FEB 19 |Intro to Network Flow| [Slides]() | [Sheet 1]()|Ch. 6-7, [Link 1]()|
@@ -212,6 +212,7 @@ All homework assignments are to be submitted through Sakai by 5PM on Friday. No 
 | JAN 22  |Chapter 1-2| [HW1](Homework/HW1.pdf) | [HW1](Homework/SOLUTION_HW1.pdf) | JAN 29 |
 | JAN 29  |Chapter 2|   [HW2](Homework/HW2.pdf) | [HW2](Homework/SOLUTION_HW2.pdf) | FEB 5  |
 | FEB 5  |Chapter 3-4|   [HW3](Homework/HW3.pdf) | HW3 | FEB 12  |
+| FEB 12  |Chapter 5|   [HW4](Homework/HW4.pdf) | HW4 | FEB 19  |
 |||||
 
 # **Additional Resources**
