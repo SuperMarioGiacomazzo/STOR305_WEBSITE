@@ -151,7 +151,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 17 | [Transport/Transship/Assign](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a238630e-7fbe-44ca-9fc4-acd200fdf659) | [Slides](Lectures/Lecture 10/Lecture 10.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2010/MillsTranship.xlsx) |Ch. 6|
 | FEB 19 | [Intro to Network Flow](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd4ac973-f7c7-4a35-8b71-acd400fe662a) | [Slides](Lectures/Lecture 11/Lecture 11.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2011/GiveBack.xlsx)|Ch. 6-7, [Link 1](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)|
 | FEB 22 | [Shortest Route](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5c745eb-acbe-44b8-8ddc-acd700ffe3ef) | [Slides](Lectures/Lecture 12/Lecture 12.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2012/ShortestRoute.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2012/ShortestRoute-1.xlsx) |Ch. 7|
-| FEB 24 | [Midterm 1 Review]() | |  |Ch. 1-5|
+| FEB 24 | [Midterm 1 Review](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb592bdc-f18c-425d-b303-acd900ffac48) | |  |Ch. 1-5|
 | FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
 | MAR 1 |Maximal Flow| [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
 | MAR 3 |Minimal Spanning Tree| [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
