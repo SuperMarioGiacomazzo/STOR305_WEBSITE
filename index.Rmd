@@ -153,7 +153,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 22 | [Shortest Route](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5c745eb-acbe-44b8-8ddc-acd700ffe3ef) | [Slides](Lectures/Lecture 12/Lecture 12.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2012/ShortestRoute.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2012/ShortestRoute-1.xlsx) |Ch. 7|
 | FEB 24 | [Midterm 1 Review](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb592bdc-f18c-425d-b303-acd900ffac48) | |  |Ch. 1-5|
 | FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
-| MAR 1 |Maximal Flow| [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
+| MAR 1 | [Maximal Flow](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5adb155f-1c4a-44de-a7b4-acde00fd21cc) | [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
 | MAR 3 |Minimal Spanning Tree| [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
 | MAR 5 |Intro to Goal Programming| [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
 | MAR 8 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
