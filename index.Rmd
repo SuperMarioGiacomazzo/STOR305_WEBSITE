@@ -154,7 +154,7 @@ This course studies operations research decision-making techniques and data anal
 | FEB 24 | [Midterm 1 Review](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb592bdc-f18c-425d-b303-acd900ffac48) | |  |Ch. 1-5|
 | FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
 | MAR 1 | [Maximal Flow](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5adb155f-1c4a-44de-a7b4-acde00fd21cc) | [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
-| MAR 3 |Minimal Spanning Tree| [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
+| MAR 3 | [Minimal Spanning Tree](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ceeec782-edbf-4dbb-94aa-ace000fc7cca) | [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
 | MAR 5 |Intro to Goal Programming| [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
 | MAR 8 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
 | MAR 10 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|4
@@ -216,6 +216,7 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | FEB 5  |Chapter 3-4|   [HW3](Homework/HW3.pdf) | [HW3](Homework/SOLUTION_HW3.pdf) | FEB 12  |
 | FEB 12  |Chapter 5|   [HW4](Homework/HW4.pdf) | [HW4](Homework/SOLUTION_HW4.pdf) | FEB 19  |
 | FEB 26  |Chapter 6|   [HW5](Homework/HW5.pdf) | HW5 | MAR 5  |
+| MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | HW6 | MAR 12  |
 |||||
 
 # **Additional Resources**
