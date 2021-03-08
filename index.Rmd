@@ -155,8 +155,8 @@ This course studies operations research decision-making techniques and data anal
 | FEB 26 |Midterm 1| **[Solutions]()** || Ch. 1-5|
 | MAR 1 | [Maximal Flow](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5adb155f-1c4a-44de-a7b4-acde00fd21cc) | [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
 | MAR 3 | [Minimal Spanning Tree](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ceeec782-edbf-4dbb-94aa-ace000fc7cca) | [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
-| MAR 5 |Intro to Goal Programming| [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
-| MAR 8 |Goal Programming in Excel| [Slides]() |  [Sheet 1]() |Ch. 9|
+| MAR 5 | [Intro to Goal Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33729464-e908-4577-80ef-ace200ffed9b) | [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
+| MAR 8 |Goal Programming in Excel| [Slides](Lectures/Lecture 16/Lecture 16.pdf) |  [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2016/GoalProgramming.xlsx) |Ch. 9|
 | MAR 10 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|4
 | MAR 12 |Wellness Day II||||
 | MAR 15 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
