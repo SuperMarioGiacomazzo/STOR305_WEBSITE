@@ -156,30 +156,30 @@ This course studies operations research decision-making techniques and data anal
 | MAR 1 | [Maximal Flow](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5adb155f-1c4a-44de-a7b4-acde00fd21cc) | [Slides](Lectures/Lecture 13/Lecture 13.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2013/MaximalFlow.xlsx)|Ch. 7|
 | MAR 3 | [Minimal Spanning Tree](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ceeec782-edbf-4dbb-94aa-ace000fc7cca) | [Slides](Lectures/Lecture 14/Lecture 14.pdf) | |Ch. 7|
 | MAR 5 | [Intro to Goal Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33729464-e908-4577-80ef-ace200ffed9b) | [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
-| MAR 8 |Goal Programming in Excel| [Slides](Lectures/Lecture 16/Lecture 16.pdf) |  [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2016/GoalProgramming.xlsx) |Ch. 9|
-| MAR 10 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|4
+| MAR 8 | [Intro to Goal Programming (Cont.) ](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33729464-e908-4577-80ef-ace200ffed9b) | [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
+| MAR 10 | Goal Programming in Excel | [Slides](Lectures/Lecture 16/Lecture 16.pdf) |  [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2016/GoalProgramming.xlsx) |Ch. 9|
 | MAR 12 |Wellness Day II||||
-| MAR 15 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
+| MAR 15 |Goal Programming Case Study| [Slides]()| [Sheet 1]()|Ch. 9|4
+| MAR 17 |Goal Programming Practice/| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 9|
 || Activity |  | [Sheet 3](), [Sheet 4]() | Ch. 9 |
-| MAR 17 |Intro to Nonlinear Programming| [Slides]() |  | Ch. 10 |
-| MAR 19 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 19 |Intro to Nonlinear Programming| [Slides]() |  | Ch. 10 |
+| MAR 22 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
 | |||  [Sheet 3](), [Sheet 4]() |Ch. 10|
-| MAR 22 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
-| MAR 24 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
-| MAR 26 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
-| MAR 29 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| MAR 31 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
+| MAR 24 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 26 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
+| MAR 29 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
+| MAR 31 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 5 |Wellness Day III||||
 | APR 7 |Midterm 2 Review|||Ch. 7, 9-10| 
 | APR 9 |Midterm 2|**[Solutions]()**||Ch. 7, 9-10|
-| APR 12 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
-| APR 14 |Additional Probability|[Slides]()||Ch. 11|
-| APR 16 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| APR 19 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
-| APR 21 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
-| APR 23 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
-| APR 26 |TBD||||||||
+| APR 12 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
+| APR 14 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 16 |Additional Probability|[Slides]()||Ch. 11|
+| APR 19 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 21 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
+| APR 23 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 26 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
 | APR 28 |TBD||||||||
 | APR 30 |TBD||||||||
 | MAY 3 |TBD||||||||
@@ -215,7 +215,7 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | JAN 29  |Chapter 2|   [HW2](Homework/HW2.pdf) | [HW2](Homework/SOLUTION_HW2.pdf) | FEB 5  |
 | FEB 5  |Chapter 3-4|   [HW3](Homework/HW3.pdf) | [HW3](Homework/SOLUTION_HW3.pdf) | FEB 12  |
 | FEB 12  |Chapter 5|   [HW4](Homework/HW4.pdf) | [HW4](Homework/SOLUTION_HW4.pdf) | FEB 19  |
-| FEB 26  |Chapter 6|   [HW5](Homework/HW5.pdf) | HW5 | MAR 5  |
+| FEB 26  |Chapter 6|   [HW5](Homework/HW5.pdf) | [HW5](Homework/SOLUTION_HW5.pdf) | MAR 5  |
 | MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | HW6 | MAR 12  |
 |||||
 
