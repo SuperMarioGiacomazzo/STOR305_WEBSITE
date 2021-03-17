@@ -159,28 +159,28 @@ This course studies operations research decision-making techniques and data anal
 | MAR 8 | [Intro to Goal Programming (Cont.) ](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb040473-8517-435e-8084-ace501001a9c) | [Slides](Lectures/Lecture 15/Lecture 15.pdf) | |Ch. 9|
 | MAR 10 | [Goal Programming in Excel](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c239ec8-cce4-4818-9039-ace700fe9ef5) | [Slides](Lectures/Lecture 16/Lecture 16.pdf) |  [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2016/GoalProgramming.xlsx) |Ch. 9|
 | MAR 12 |Wellness Day II||||
-| MAR 15 |Goal Programming Case Study| [Slides](Lectures/Lecture 17/Lecture 17.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2017/Expanse.xlsx)|Ch. 9|4
-| MAR 17 |Goal Programming Practice/| [Slides](Lectures/Lecture 18/Lecture 18.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-2.xlsx) |Ch. 9|
+| MAR 15 |[Review of Midterm I](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3609e90-1bc1-4e50-b924-acec00eebd9e)||||
+| MAR 17 | Goal Programming Case Study| [Slides](Lectures/Lecture 17/Lecture 17.pdf)| [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2017/Expanse.xlsx)|Ch. 9|
+| MAR 19 |Goal Programming Practice/| [Slides](Lectures/Lecture 18/Lecture 18.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-2.xlsx) |Ch. 9|
 || Activity |  | [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-3.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-4.xlsx) | Ch. 9 |
-| MAR 19 |Intro to Nonlinear Programming| [Slides](Lectures/Lecture 19/Lecture 19.pdf) |  | Ch. 10 |
-| MAR 22 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 22 |Intro to Nonlinear Programming| [Slides](Lectures/Lecture 19/Lecture 19.pdf) |  | Ch. 10 |
+| MAR 24 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
 | |||  [Sheet 3](), [Sheet 4]() |Ch. 10|
-| MAR 24 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
-| MAR 26 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
-| MAR 29 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
-| MAR 31 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| MAR 26 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 29 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
+| MAR 31 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 5 |Wellness Day III||||
-| APR 7 |Midterm 2 Review|||Ch. 7, 9-10| 
+| APR 7 |Midterm 2 Review|||Ch. 6-7, 9-10| 
 | APR 9 |Midterm 2|**[Solutions]()**||Ch. 7, 9-10|
-| APR 12 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
-| APR 14 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
-| APR 16 |Additional Probability|[Slides]()||Ch. 11|
-| APR 19 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| APR 21 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
-| APR 23 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
-| APR 26 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
-| APR 28 |TBD||||||||
+| APR 12 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 14 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
+| APR 16 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 19 |Additional Probability|[Slides]()||Ch. 11|
+| APR 21 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 23 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
+| APR 26 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 28 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
 | APR 30 |TBD||||||||
 | MAY 3 |TBD||||||||
 | MAY 5 |Exam Review||||||||
