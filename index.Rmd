@@ -164,9 +164,9 @@ This course studies operations research decision-making techniques and data anal
 | MAR 19 |Goal Programming Practice/| [Slides](Lectures/Lecture 18/Lecture 18.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-2.xlsx) |Ch. 9|
 || Activity |  | [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-3.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-4.xlsx) | Ch. 9 |
 | MAR 22 |Intro to Nonlinear Programming| [Slides](Lectures/Lecture 19/Lecture 19.pdf) |  | Ch. 10 |
-| MAR 24 |More Nonlinear Programming| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
-| |||  [Sheet 3](), [Sheet 4]() |Ch. 10|
-| MAR 26 |More Nonlinear Examples| [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 10|
+| MAR 24 |More Nonlinear Programming| [Slides](Lectures/Lecture 20/Lecture 20.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/NonlinearProfit.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/BeaverCreekNonlinear.xlsx) |Ch. 10|
+| |||  [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/WesternClothing.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/FacilityLocation.xlsx) |Ch. 10|
+| MAR 26 |More Nonlinear Examples| [Slides](Lectures/Lecture 21/Lecture 21.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/MultipleMaxima.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/Markowitz.xlsx) |Ch. 10|
 | MAR 29 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
 | MAR 31 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
@@ -220,6 +220,7 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | FEB 26  |Chapter 6|   [HW5](Homework/HW5.pdf) | [HW5](Homework/SOLUTION_HW5.pdf) | MAR 5  |
 | MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | [HW6](Homework/SOLUTION_HW6.pdf) | MAR 12  |
 | MAR 14 |Chapter 7|   [HW7](Homework/HW7.pdf) | HW7 | MAR 21  |
+| MAR 19 |Chapter 7,9|   [HW8](Homework/HW8.pdf) | HW8 | MAR 26  |
 |||||
 
 # **Additional Resources**
