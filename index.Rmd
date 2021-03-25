@@ -164,15 +164,15 @@ This course studies operations research decision-making techniques and data anal
 | MAR 19 | [Goal Programming Practice](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b242f6-07a2-4ac6-a082-acf000ed3b94) /| [Slides](Lectures/Lecture 18/Lecture 18.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-1.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-2.xlsx) |Ch. 9|
 || [Activity](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91b242f6-07a2-4ac6-a082-acf000ed3b94) |  | [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-3.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2018/OregonAtlantic-4.xlsx) | Ch. 9 |
 | MAR 22 | [Intro to Nonlinear Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4a8f78b-ec3f-447a-9ad2-acf3014de676) | [Slides](Lectures/Lecture 19/Lecture 19.pdf) |  | Ch. 10 |
-| MAR 24 |More Nonlinear Programming| [Slides](Lectures/Lecture 20/Lecture 20.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/NonlinearProfit.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/BeaverCreekNonlinear.xlsx) |Ch. 10|
+| MAR 24 | [More Nonlinear Programming](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d3627ba-8d6a-4c4a-a6d9-acf500f0823c) | [Slides](Lectures/Lecture 20/Lecture 20.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/NonlinearProfit.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/BeaverCreekNonlinear.xlsx) |Ch. 10|
 | |||  [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/WesternClothing.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/FacilityLocation.xlsx) |Ch. 10|
 | MAR 26 |More Nonlinear Examples| [Slides](Lectures/Lecture 21/Lecture 21.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/MultipleMaxima.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/Markowitz.xlsx) |Ch. 10|
 | MAR 29 | Nonlinear Case Study | [Slides]() | [Sheet 1]() |Ch. 10|
 | MAR 31 | Descriptive Statistics| [Slides]() | [Sheet 1]() |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 5 |Wellness Day III||||
-| APR 7 |Midterm 2 Review|||Ch. 6-7, 9-10| 
-| APR 9 |Midterm 2|**[Solutions]()**||Ch. 7, 9-10|
+| APR 7 |Midterm 2 Review|||Ch. 6-7, 9| 
+| APR 9 |Midterm 2|**[Solutions]()**||Ch. 6-7, 9|
 | APR 12 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
 | APR 14 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
 | APR 16 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
@@ -221,6 +221,10 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | [HW6](Homework/SOLUTION_HW6.pdf) | MAR 12  |
 | MAR 14 |Chapter 7|   [HW7](Homework/HW7.pdf) | [HW7](Homework/SOLUTION_HW7.pdf) | MAR 21  |
 | MAR 19 |Chapter 7,9|   [HW8](Homework/HW8.pdf) | HW8 | MAR 26  |
+| MAR 26 |Chapter 10|   [HW9](Homework/HW9.pdf) | HW9 | APR 9  |
+| APR 9| |   HW10 | HW10 | APR 16  |
+| APR 16 ||   HW11 | HW11 | APR 23  |
+| APR 23 ||   HW12 | HW12 | APR 30  |
 |||||
 
 # **Additional Resources**
