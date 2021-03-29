@@ -220,7 +220,7 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | FEB 26  |Chapter 6|   [HW5](Homework/HW5.pdf) | [HW5](Homework/SOLUTION_HW5.pdf) | MAR 5  |
 | MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | [HW6](Homework/SOLUTION_HW6.pdf) | MAR 12  |
 | MAR 14 |Chapter 7|   [HW7](Homework/HW7.pdf) | [HW7](Homework/SOLUTION_HW7.pdf) | MAR 21  |
-| MAR 19 |Chapter 7,9|   [HW8](Homework/HW8.pdf) | HW8 | MAR 26  |
+| MAR 19 |Chapter 7,9|   [HW8](Homework/HW8.pdf) | [HW8](Homework/SOLUTION_HW8.pdf) | MAR 26  |
 | MAR 26 |Chapter 10|   [HW9](Homework/HW9.pdf) | HW9 | APR 9  |
 | APR 9| |   HW10 | HW10 | APR 16  |
 | APR 16 ||   HW11 | HW11 | APR 23  |
