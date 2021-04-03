@@ -168,7 +168,7 @@ This course studies operations research decision-making techniques and data anal
 | |||  [Sheet 3](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/WesternClothing.xlsx), [Sheet 4](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2020/FacilityLocation.xlsx) |Ch. 10|
 | MAR 26 | [More Nonlinear Examples](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=381497d5-dead-4dc9-b3d4-acf700ef6673) | [Slides](Lectures/Lecture 21/Lecture 21.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/MultipleMaxima.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2021/Markowitz.xlsx) |Ch. 10|
 | MAR 29 | [Nonlinear Case Study](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63e2dbc6-690f-460b-92fa-acfa00eb5db2) | [Slides](Lectures/Lecture 22/Lecture 22.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2022/Admissions.xlsx) |Ch. 10|
-| MAR 31 | Descriptive Statistics| [Slides](Lectures/Lecture 23/Lecture 23.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2023/Salaries.xlsx) |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
+| MAR 31 | [Descriptive Statistics](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0efffc67-7f04-4c6e-be3e-acfc00ed6fa7) | [Slides](Lectures/Lecture 23/Lecture 23.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2023/Salaries.xlsx) |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
 | APR 2 |[BEST FRIDAY](https://www.youtube.com/watch?v=kfVsfOSbJY0)||||
 | APR 5 |Wellness Day III||||
 | APR 7 |Midterm 2 Review|||Ch. 6-7, 9| 
@@ -204,6 +204,11 @@ For additional resources, check out these mini-lectures designed by Will Lassite
 | MAR 1-5  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78d40e00-b219-4141-a121-acdb01797647) |
 | MAR 15-19  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b43144e7-fd56-43f0-aa15-ace00108e2b5) |
 | MAR 15-19  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=61359988-88d4-4412-89ff-ace00108f154) |
+| MAR 22-26  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa96fa08-2df2-4073-b41d-acec00f37658) |
+| MAR 22-26  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=615944db-d1e6-4ded-942c-acf0015303fe) |
+| MAR 29-31 | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d598622a-53c6-459a-ad14-acf001535cc9) |
+| MAR 29-31  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9cefa649-0779-4631-baa8-acf70168ccd8) |
+| APR 5-9  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eaa96575-3ce2-40d6-af1d-acf7016916f1) |
 |||||
 
 
