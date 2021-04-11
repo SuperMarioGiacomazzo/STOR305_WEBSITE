@@ -173,15 +173,15 @@ This course studies operations research decision-making techniques and data anal
 | APR 5 |Wellness Day III||||
 | APR 7 | [Midterm 2 Review](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=773dae64-ee13-4f96-a685-ad0300eedd1d) |||Ch. 6-7, 9| 
 | APR 9 |Midterm 2|**[Solutions]()**||Ch. 6-7, 9|
-| APR 12 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| APR 14 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
-| APR 16 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
-| APR 19 |Additional Probability|[Slides]()||Ch. 11|
-| APR 21 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
-| APR 23 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
-| APR 26 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
-| APR 28 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
-| APR 30 |TBD||||||||
+| APR 12 | Descriptive Statistics (Cont.) | [Slides](Lectures/Lecture 23/Lecture 23.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2023/Salaries.xlsx) |Ch. 11, [Link 1](https://www.excel-easy.com/examples/frequency.html), [Link 2](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4#OfficeVersion=Windows)|
+| APR 14 | More Descriptive Statistics | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 16 | Bivariate Data| [Slides]() |[Sheet 1](), [Sheet 2]() |Ch. 11, [Link 1](https://www.excel-easy.com/data-analysis/pivot-tables.html), [Link 2](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)|
+| APR 19 | Intro to Probability |[Slides]()||Ch. 11, [Link 1](http://work.thaslwanter.at/Stats/html/statsBayes.html), [Link 2](http://www.statisticalengineering.com/frequentists_and_bayesians.htm)|
+| APR 21 |Additional Probability|[Slides]()||Ch. 11|
+| APR 23 | Definitely Probability | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 11|
+| APR 26 | Discrete Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
+| APR 28 | Continuous Simulation | [Slides]() | [Sheet 1]() |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
+| APR 30 | Final Simulation | [Slides]() | [Sheet 1](), [Sheet 2]() | Ch. 13-14|
 | MAY 3 |TBD||||||||
 | MAY 5 |Exam Review||||||||
 | May 13 (8AM)|Final Exam||||
@@ -226,8 +226,8 @@ All homework assignments are to be submitted through Sakai by 11:59PM on Friday.
 | MAR 3 |Chapter 7|   [HW6](Homework/HW6.pdf) | [HW6](Homework/SOLUTION_HW6.pdf) | MAR 12  |
 | MAR 14 |Chapter 7|   [HW7](Homework/HW7.pdf) | [HW7](Homework/SOLUTION_HW7.pdf) | MAR 21  |
 | MAR 19 |Chapter 7,9|   [HW8](Homework/HW8.pdf) | [HW8](Homework/SOLUTION_HW8.pdf) | MAR 26  |
-| MAR 26 |Chapter 10|   [HW9](Homework/HW9.pdf) | HW9 | APR 9  |
-| APR 9| |   HW10 | [HW10](Homework/HW10.pdf) | APR 16  |
+| MAR 26 |Chapter 10|   [HW9](Homework/HW9.pdf) | [HW9](Homework/SOLUTION_HW9.pdf) | APR 9  |
+| APR 9| Chapter 10-11 |   [HW10](Homework/HW10.pdf) | HW10 | APR 16  |
 | APR 16 ||   HW11 | HW11 | APR 23  |
 | APR 23 ||   HW12 | HW12 | APR 30  |
 |||||
