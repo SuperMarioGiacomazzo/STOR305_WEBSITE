@@ -182,8 +182,8 @@ This course studies operations research decision-making techniques and data anal
 | APR 26 | [Discrete Simulation](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec913240-ad98-49d6-8649-ad1600f10c7a) | [Slides](Lectures/Lecture 29/Lecture 29.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2029/SpinWheel.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2029/SimBinomial.xlsx) |Ch. 14, [Link 1](https://www.investopedia.com/terms/m/montecarlosimulation.asp), [Link 2](https://support.office.com/en-us/article/rand-function-4cbfa695-8869-4788-8d90-021ea9f5be73)|[Sheets]() |Ch. 7, 9-10|
 | APR 28 | [Continuous Simulation](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=663deb0c-6b04-4d50-ad80-ad1800f2999a) | [Slides](Lectures/Lecture 30/Lecture 30.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2030/ArrivalProcess.xlsx) |Ch. 13-14, [Link 1](http://www.exceluser.com/formulas/statsnormal.htm) |
 | APR 30 | [Final Simulation](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=007c0d75-622f-4d37-ba6c-ad1a00f1041f) | [Slides](Lectures/Lecture 31/Lecture 31.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/CoffeeShop.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/LLN.xlsx) | Ch. 13-14|
-| MAY 3 | Final Simulation (Cont.) | [Slides](Lectures/Lecture 31/Lecture 31.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/CoffeeShop.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/LLN.xlsx) | Ch. 13-14|
-| MAY 5 |Exam Review||||||||
+| MAY 3 | [Final Simulation (Cont.)](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00e9bfe6-e0d7-426c-952c-ad1d00efb3f3) | [Slides](Lectures/Lecture 31/Lecture 31.pdf) | [Sheet 1](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/CoffeeShop.xlsx), [Sheet 2](https://github.com/SuperMarioGiacomazzo/STOR305_WEBSITE/blob/master/Lectures/Lecture%2031/LLN.xlsx) | Ch. 13-14|
+| MAY 5 | [Exam Review](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=085296de-afdd-4272-80d8-ad1f00f20f80) ||||||||
 | May 13 (8AM)|Final Exam||||
 |          |        |             |           |
 
@@ -215,6 +215,7 @@ For additional resources, check out these mini-lectures designed by Will Lassite
 | APR 19-23  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0c6db73-6a66-4264-b1d9-ad0d00f59959) |
 | APR 19-23  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f43459ac-5476-43a2-8159-ad1401134f1f) |
 | APR 26-30  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a242b18-65f7-4246-8d02-ad1401139c4e) |
+| APR 26-30  | [Link](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=215d2e6d-2b97-4ecc-9b89-ad1a015f63bf) |
 |||||
 
 
